@@ -16,10 +16,9 @@ I generated 1,000 training examples. The 100 held-out test examples deliberately
 Metric: exact match = all 4 fields correct; per-field accuracy shows where errors come from. Training: 250 steps, 90 s, peak 7.4 GB.
 
 **LoRA settings and why.** r = 16, α = 32, dropout 0.05, targets q,k,v,o,gate,up,down (8.8M trainable = 1.75%), lr 2e-4 (20-step warm-up, linear decay), 2 epochs, batch 8, loss on answer tokens only.
-*Why:* the task is narrow, so a small rank is enough. Putting adapters on all linear layers (attention and MLP) is the QLoRA paper's recommendation: it gets closer to full fine-tuning than attention-only adapters for little extra memory.
-α = 2r is a common default that keeps the update scale stable. 2e-4 is a typical LoRA learning rate (about 10× full fine-tuning) because only a few parameters are trained.
-2 epochs was enough: training loss reached ~0 within 1 epoch, so more epochs would only memorise templates further.
-*(rewrite this reasoning in your own words)*
+My reasoning: the task is small and narrow (4 fields, fixed labels), so I didn't need a big rank and 16 was plenty. I put LoRA on all the linear layers and not just attention, since the QLoRA paper found this gets closer to full fine-tuning and it costs very little extra memory here.
+I kept alpha at 2× the rank, which is the usual default. 2e-4 is higher than you'd use for full fine-tuning, but that's normal for LoRA because only the small adapter matrices are being updated.
+I stopped at 2 epochs because the training loss was already almost 0 after the first epoch. Training longer would just make it memorise my templates more, and that's exactly the problem the test set exposes.
 
 **Where it still fails.** The 50 failures have 34 wrong rooms, 17 wrong devices and 4 wrong actions.
 1. *"Kill the table fan in room where I sleep"* → room `bathroom` (should be `bedroom`). In **32 of 34** room errors the model outputs `bathroom`.
@@ -66,10 +65,11 @@ I used 400-word chunks for answering.
 
 End-to-end, 12/15 generated answers were correct by my reading. The errors were Ghost Attention, the warm-up steps (gold retrieved at rank 2, but the LLM copied "3% of steps" from another chunk), and the win rate (tie rate omitted).
 
-**BM25 and re-rankers** *(rewrite in your own words)*. Embedding search compares meanings, so it handles paraphrases but blurs exact tokens such as numbers, names and acronyms.
-BM25 scores chunks by exact word overlap. Rare words count more (IDF), repeats give diminishing returns (k1), and long chunks are normalised (b). It adds exact-match precision,
-which our results show: BM25 beat dense on 4 questions. A re-ranker is a cross-encoder that reads the question and a candidate chunk *together* and outputs a relevance score.
-It's too slow for the whole corpus, so you retrieve ~20 to 50 candidates cheaply and re-rank only those. It's more accurate because question and passage tokens attend to each other directly.
+**BM25 and re-rankers.** Embedding search matches on meaning, which is good when the question uses different words from the paper. The downside is that exact things like numbers, names and acronyms get blurred.
+BM25 is plain keyword matching with some sensible weighting: a rare word like "GAtt" counts for a lot, a common word counts for little, repeating a word only helps up to a point, and long chunks don't win just for being long.
+So BM25 adds the exact-match side that embeddings miss. I saw this directly: BM25 did better than dense search on 4 of my 15 questions.
+A re-ranker is a second, slower model (a cross-encoder) that reads the question and one chunk together and gives a relevance score. Running it on every chunk would be too slow, so you first fetch maybe 20 to 50 candidates the cheap way and only re-rank those.
+It's more accurate than the embedding model because it looks at the question and the passage at the same time, instead of turning each into its own vector separately.
 
 ## Task 3: Running a model locally: fp16 vs 4-bit (Ollama)
 
@@ -85,9 +85,9 @@ q4 was *better* on 3: the train-arrival time (fp16 said 1:20, wrong; q4 said 12:
 Fibonacci was correct in both, with different indexing conventions. So, at this scale, 4-bit showed **no measurable quality loss**.
 The differences come from greedy decoding taking a different path after a tiny change in logits, not from systematic degradation. 10 prompts are too few to rank them.
 
-**KV cache** *(rewrite in your own words)*. To produce each new token, attention needs the keys and values of every previous token at every layer.
-The KV cache stores those K/V tensors, so each step only computes them for the one new token instead of re-running the whole sequence.
-It trades compute for memory. Size = 2 × layers × kv_heads × head_dim × bytes × tokens, growing linearly with context length and the number of concurrent requests.
+**KV cache.** Every time the model generates a token, attention has to look back at all the earlier tokens, which means it needs their keys and values at every layer.
+Instead of recomputing those for the whole sequence at every step, the model saves them. That saved store is the KV cache, and with it each step only computes K and V for the one new token.
+The price is memory: 2 × layers × kv_heads × head_dim × bytes per token. That grows with context length and with the number of users, which matters a lot for the serving plan below.
 
 **Why quantisation saves memory.** Weights dominate memory. q4_K_M stores most weights in ~4.5 bits (4-bit values plus a scale per small block) instead of 16, so the 3.1 GB file becomes 0.99 GB.
 Measured VRAM fell from 3.26 GB to 1.24 GB. The rest is KV cache and CUDA buffers, which weight quantisation doesn't shrink.
