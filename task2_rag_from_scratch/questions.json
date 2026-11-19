@@ -1,0 +1,17 @@
+[
+ {"q": "How many tokens of data was Llama 2 pretrained on?", "gold": "trained on 2 trillion tokens of data"},
+ {"q": "How long is the context window of Llama 2 compared to Llama 1?", "gold": "from 2048 tokens to 4096 tokens"},
+ {"q": "Which attention variant did they adopt to make inference scale better?", "gold": "grouped-query attention (GQA) to improve inference scalability"},
+ {"q": "How many warmup steps were used in the pretraining learning-rate schedule?", "gold": "warmup of 2000 steps"},
+ {"q": "What kind of network interconnect does Meta's Research Super Cluster use?", "gold": "RSC uses NVIDIA Quantum"},
+ {"q": "What were the estimated total carbon emissions for pretraining?", "gold": "539 tCO2 eq"},
+ {"q": "What is the vocabulary size of the Llama 2 tokenizer?", "gold": "vocabulary size is 32k tokens"},
+ {"q": "How many SFT annotations did the authors collect before they stopped?", "gold": "27,540 annotations"},
+ {"q": "What batch size and sequence length were used for supervised fine-tuning?", "gold": "a batch size of 64, and a sequence length of 4096 tokens"},
+ {"q": "Why do they add a margin term to the reward model's ranking loss?", "gold": "we use a large margin"},
+ {"q": "Which two algorithms did they try for RLHF fine-tuning?", "gold": "we explored rlhf fine-tuning with two main algorithms"},
+ {"q": "What clip threshold was used for PPO?", "gold": "ppo clip threshold of 0.2"},
+ {"q": "What is Ghost Attention inspired by?", "gold": "a very simple method inspired by context"},
+ {"q": "What win rate does the 70B chat model have against ChatGPT in human evaluation?", "gold": "36% and a tie rate of 31.5%"},
+ {"q": "What share of pretraining documents did the toxicity classifier flag?", "gold": "0.2% of documents in our pretraining corpus"}
+]

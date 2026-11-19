@@ -1,0 +1,7 @@
+task2_rag_from_scratch/data/
+*.pdf
+!report/report.pdf
+report/report.html
+__pycache__/
+*.jsonl.tmp
+report/theory_drafts.md

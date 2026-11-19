@@ -1,0 +1,1000 @@
+{"text": "Please turn the light on", "target": {"action": "turn_on", "device": "light", "room": null, "value": null}}
+{"text": "can you start the speaker", "target": {"action": "turn_on", "device": "speaker", "room": null, "value": null}}
+{"text": "switch on the light in the living room", "target": {"action": "turn_on", "device": "light", "room": "living_room", "value": null}}
+{"text": "lower the space heater in the bedroom by 10", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": 10}}
+{"text": "change the ac in the master bedroom to 28 degrees", "target": {"action": "set", "device": "ac", "room": "bedroom", "value": 28}}
+{"text": "Set the television in kitchen to 51", "target": {"action": "set", "device": "tv", "room": "kitchen", "value": 51}}
+{"text": "Make the blinds 46", "target": {"action": "set", "device": "blinds", "room": null, "value": 46}}
+{"text": "Turn off the blinds in kitchen", "target": {"action": "turn_off", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "put the ceiling fan in the kitchen at 2", "target": {"action": "set", "device": "fan", "room": "kitchen", "value": 2}}
+{"text": "ceiling fan off in office", "target": {"action": "turn_off", "device": "fan", "room": "office", "value": null}}
+{"text": "Please turn the ceiling fan on in the hall", "target": {"action": "turn_on", "device": "fan", "room": "living_room", "value": null}}
+{"text": "Turn down the music speaker in kitchen", "target": {"action": "decrease", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "stop the ceiling fan", "target": {"action": "turn_off", "device": "fan", "room": null, "value": null}}
+{"text": "increase the tv in the study by 2", "target": {"action": "increase", "device": "tv", "room": "office", "value": 2}}
+{"text": "switch on the ceiling fan", "target": {"action": "turn_on", "device": "fan", "room": null, "value": null}}
+{"text": "raise the space heater in the bathroom by 10", "target": {"action": "increase", "device": "heater", "room": "bathroom", "value": 10}}
+{"text": "decrease the curtains in the kitchen by 1", "target": {"action": "decrease", "device": "blinds", "room": "kitchen", "value": 1}}
+{"text": "Make the TV in the master bedroom 11", "target": {"action": "set", "device": "tv", "room": "bedroom", "value": 11}}
+{"text": "Turn off the TV in washroom", "target": {"action": "turn_off", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "change the blinds in kitchen to 7 percent", "target": {"action": "set", "device": "blinds", "room": "kitchen", "value": 7}}
+{"text": "turn down the curtains in bedroom", "target": {"action": "decrease", "device": "blinds", "room": "bedroom", "value": null}}
+{"text": "turn down the space heater in master bedroom", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "Turn down the heater in living room", "target": {"action": "decrease", "device": "heater", "room": "living_room", "value": null}}
+{"text": "Turn down the fan in the bathroom", "target": {"action": "decrease", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "Turn on the blinds in kitchen", "target": {"action": "turn_on", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "stop the music speaker in bathroom", "target": {"action": "turn_off", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "lights off in hall", "target": {"action": "turn_off", "device": "light", "room": "living_room", "value": null}}
+{"text": "turn on the speaker", "target": {"action": "turn_on", "device": "speaker", "room": null, "value": null}}
+{"text": "change the curtains in living room to 24%", "target": {"action": "set", "device": "blinds", "room": "living_room", "value": 24}}
+{"text": "turn on the heater in the bathroom", "target": {"action": "turn_on", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "space heater off in hall", "target": {"action": "turn_off", "device": "heater", "room": "living_room", "value": null}}
+{"text": "Lower the speaker by 2", "target": {"action": "decrease", "device": "speaker", "room": null, "value": 2}}
+{"text": "can you start the tv", "target": {"action": "turn_on", "device": "tv", "room": null, "value": null}}
+{"text": "lamp on in the bathroom", "target": {"action": "turn_on", "device": "light", "room": "bathroom", "value": null}}
+{"text": "Turn on the blinds in bedroom", "target": {"action": "turn_on", "device": "blinds", "room": "bedroom", "value": null}}
+{"text": "decrease the fan in washroom", "target": {"action": "decrease", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "Please shut the speaker off", "target": {"action": "turn_off", "device": "speaker", "room": null, "value": null}}
+{"text": "please shut the music speaker off", "target": {"action": "turn_off", "device": "speaker", "room": null, "value": null}}
+{"text": "can you start the lamp in the office", "target": {"action": "turn_on", "device": "light", "room": "office", "value": null}}
+{"text": "Decrease the ac in master bedroom by 1", "target": {"action": "decrease", "device": "ac", "room": "bedroom", "value": 1}}
+{"text": "Decrease the music speaker in the kitchen", "target": {"action": "decrease", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "switch on the music speaker in the washroom", "target": {"action": "turn_on", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "Please shut the music speaker off", "target": {"action": "turn_off", "device": "speaker", "room": null, "value": null}}
+{"text": "Lights on", "target": {"action": "turn_on", "device": "light", "room": null, "value": null}}
+{"text": "Put the curtains in the bedroom at 20", "target": {"action": "set", "device": "blinds", "room": "bedroom", "value": 20}}
+{"text": "Please shut the TV off in living room", "target": {"action": "turn_off", "device": "tv", "room": "living_room", "value": null}}
+{"text": "put the AC in living room at 19", "target": {"action": "set", "device": "ac", "room": "living_room", "value": 19}}
+{"text": "turn up the tv", "target": {"action": "increase", "device": "tv", "room": null, "value": null}}
+{"text": "Switch off the space heater in the hall", "target": {"action": "turn_off", "device": "heater", "room": "living_room", "value": null}}
+{"text": "heater on in living room", "target": {"action": "turn_on", "device": "heater", "room": "living_room", "value": null}}
+{"text": "switch off the ceiling fan in hall", "target": {"action": "turn_off", "device": "fan", "room": "living_room", "value": null}}
+{"text": "make the AC 22", "target": {"action": "set", "device": "ac", "room": null, "value": 22}}
+{"text": "Switch on the lamp in the kitchen", "target": {"action": "turn_on", "device": "light", "room": "kitchen", "value": null}}
+{"text": "increase the AC by 5", "target": {"action": "increase", "device": "ac", "room": null, "value": 5}}
+{"text": "Switch on the space heater in bathroom", "target": {"action": "turn_on", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "turn down the music speaker", "target": {"action": "decrease", "device": "speaker", "room": null, "value": null}}
+{"text": "set the television in kitchen to 51", "target": {"action": "set", "device": "tv", "room": "kitchen", "value": 51}}
+{"text": "change the TV in the master bedroom to 31", "target": {"action": "set", "device": "tv", "room": "bedroom", "value": 31}}
+{"text": "set the space heater in washroom to 22 degrees", "target": {"action": "set", "device": "heater", "room": "bathroom", "value": 22}}
+{"text": "switch off the TV in office", "target": {"action": "turn_off", "device": "tv", "room": "office", "value": null}}
+{"text": "turn down the AC in the hall", "target": {"action": "decrease", "device": "ac", "room": "living_room", "value": null}}
+{"text": "switch off the lights in living room", "target": {"action": "turn_off", "device": "light", "room": "living_room", "value": null}}
+{"text": "Lower the ceiling fan by 5", "target": {"action": "decrease", "device": "fan", "room": null, "value": 5}}
+{"text": "Blinds on in living room", "target": {"action": "turn_on", "device": "blinds", "room": "living_room", "value": null}}
+{"text": "blinds off in hall", "target": {"action": "turn_off", "device": "blinds", "room": "living_room", "value": null}}
+{"text": "raise the television by 10", "target": {"action": "increase", "device": "tv", "room": null, "value": 10}}
+{"text": "Turn up the space heater in the kitchen", "target": {"action": "increase", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "switch on the music speaker in kitchen", "target": {"action": "turn_on", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "Switch on the ceiling fan in the bedroom", "target": {"action": "turn_on", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "raise the ac in bathroom by 5", "target": {"action": "increase", "device": "ac", "room": "bathroom", "value": 5}}
+{"text": "lower the speaker in hall by 5", "target": {"action": "decrease", "device": "speaker", "room": "living_room", "value": 5}}
+{"text": "Turn up the television", "target": {"action": "increase", "device": "tv", "room": null, "value": null}}
+{"text": "raise the space heater in living room by 3", "target": {"action": "increase", "device": "heater", "room": "living_room", "value": 3}}
+{"text": "lower the TV in the living room by 10", "target": {"action": "decrease", "device": "tv", "room": "living_room", "value": 10}}
+{"text": "switch off the blinds in study", "target": {"action": "turn_off", "device": "blinds", "room": "office", "value": null}}
+{"text": "raise the air conditioner in the kitchen by 3", "target": {"action": "increase", "device": "ac", "room": "kitchen", "value": 3}}
+{"text": "turn down the lamp in the kitchen", "target": {"action": "decrease", "device": "light", "room": "kitchen", "value": null}}
+{"text": "stop the fan in the living room", "target": {"action": "turn_off", "device": "fan", "room": "living_room", "value": null}}
+{"text": "TV on in master bedroom", "target": {"action": "turn_on", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "decrease the speaker", "target": {"action": "decrease", "device": "speaker", "room": null, "value": null}}
+{"text": "please turn the TV on in hall", "target": {"action": "turn_on", "device": "tv", "room": "living_room", "value": null}}
+{"text": "switch off the light in the washroom", "target": {"action": "turn_off", "device": "light", "room": "bathroom", "value": null}}
+{"text": "decrease the curtains in the hall by 10", "target": {"action": "decrease", "device": "blinds", "room": "living_room", "value": 10}}
+{"text": "Lights in office to 23% please", "target": {"action": "set", "device": "light", "room": "office", "value": 23}}
+{"text": "lower the music speaker in kitchen by 5", "target": {"action": "decrease", "device": "speaker", "room": "kitchen", "value": 5}}
+{"text": "Switch on the air conditioner in study", "target": {"action": "turn_on", "device": "ac", "room": "office", "value": null}}
+{"text": "change the ceiling fan in study to 3", "target": {"action": "set", "device": "fan", "room": "office", "value": 3}}
+{"text": "make the tv in living room 17", "target": {"action": "set", "device": "tv", "room": "living_room", "value": 17}}
+{"text": "Music speaker off in the office", "target": {"action": "turn_off", "device": "speaker", "room": "office", "value": null}}
+{"text": "increase the music speaker in master bedroom by 10", "target": {"action": "increase", "device": "speaker", "room": "bedroom", "value": 10}}
+{"text": "Lower the air conditioner in the kitchen by 3", "target": {"action": "decrease", "device": "ac", "room": "kitchen", "value": 3}}
+{"text": "Stop the AC in the living room", "target": {"action": "turn_off", "device": "ac", "room": "living_room", "value": null}}
+{"text": "Increase the ac by 1", "target": {"action": "increase", "device": "ac", "room": null, "value": 1}}
+{"text": "set the fan in the kitchen to 5", "target": {"action": "set", "device": "fan", "room": "kitchen", "value": 5}}
+{"text": "turn down the AC", "target": {"action": "decrease", "device": "ac", "room": null, "value": null}}
+{"text": "Increase the lights in hall by 5", "target": {"action": "increase", "device": "light", "room": "living_room", "value": 5}}
+{"text": "Turn on the ac in study", "target": {"action": "turn_on", "device": "ac", "room": "office", "value": null}}
+{"text": "Can you start the ceiling fan in the bedroom", "target": {"action": "turn_on", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "turn up the TV in washroom", "target": {"action": "increase", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "blinds in the bathroom to 39 please", "target": {"action": "set", "device": "blinds", "room": "bathroom", "value": 39}}
+{"text": "Change the speaker in the living room to 35", "target": {"action": "set", "device": "speaker", "room": "living_room", "value": 35}}
+{"text": "raise the speaker in bathroom by 3", "target": {"action": "increase", "device": "speaker", "room": "bathroom", "value": 3}}
+{"text": "turn up the lights", "target": {"action": "increase", "device": "light", "room": null, "value": null}}
+{"text": "lower the speaker in bedroom by 1", "target": {"action": "decrease", "device": "speaker", "room": "bedroom", "value": 1}}
+{"text": "Please turn the lamp on in master bedroom", "target": {"action": "turn_on", "device": "light", "room": "bedroom", "value": null}}
+{"text": "put the music speaker in the study at 69", "target": {"action": "set", "device": "speaker", "room": "office", "value": 69}}
+{"text": "increase the speaker in the kitchen by 1", "target": {"action": "increase", "device": "speaker", "room": "kitchen", "value": 1}}
+{"text": "Change the TV in hall to 35", "target": {"action": "set", "device": "tv", "room": "living_room", "value": 35}}
+{"text": "lower the space heater by 1", "target": {"action": "decrease", "device": "heater", "room": null, "value": 1}}
+{"text": "set the air conditioner to 29 degrees", "target": {"action": "set", "device": "ac", "room": null, "value": 29}}
+{"text": "Make the music speaker in office 9", "target": {"action": "set", "device": "speaker", "room": "office", "value": 9}}
+{"text": "Can you start the blinds in study", "target": {"action": "turn_on", "device": "blinds", "room": "office", "value": null}}
+{"text": "lower the ac in bathroom by 5", "target": {"action": "decrease", "device": "ac", "room": "bathroom", "value": 5}}
+{"text": "heater to 19 degrees please", "target": {"action": "set", "device": "heater", "room": null, "value": 19}}
+{"text": "make the tv in the living room 31", "target": {"action": "set", "device": "tv", "room": "living_room", "value": 31}}
+{"text": "music speaker on in master bedroom", "target": {"action": "turn_on", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "turn up the ceiling fan in the office", "target": {"action": "increase", "device": "fan", "room": "office", "value": null}}
+{"text": "put the blinds in study at 100", "target": {"action": "set", "device": "blinds", "room": "office", "value": 100}}
+{"text": "turn down the music speaker in study", "target": {"action": "decrease", "device": "speaker", "room": "office", "value": null}}
+{"text": "decrease the heater in the study by 2", "target": {"action": "decrease", "device": "heater", "room": "office", "value": 2}}
+{"text": "raise the lights in kitchen by 5", "target": {"action": "increase", "device": "light", "room": "kitchen", "value": 5}}
+{"text": "please shut the tv off in the washroom", "target": {"action": "turn_off", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "please shut the lights off in the study", "target": {"action": "turn_off", "device": "light", "room": "office", "value": null}}
+{"text": "lower the heater in the kitchen by 10", "target": {"action": "decrease", "device": "heater", "room": "kitchen", "value": 10}}
+{"text": "set the fan to 4", "target": {"action": "set", "device": "fan", "room": null, "value": 4}}
+{"text": "please turn the heater on in bedroom", "target": {"action": "turn_on", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "Air conditioner in the kitchen to 18 degrees please", "target": {"action": "set", "device": "ac", "room": "kitchen", "value": 18}}
+{"text": "turn down the curtains in the office", "target": {"action": "decrease", "device": "blinds", "room": "office", "value": null}}
+{"text": "set the space heater in the kitchen to 30 degrees", "target": {"action": "set", "device": "heater", "room": "kitchen", "value": 30}}
+{"text": "Television in kitchen to 49 please", "target": {"action": "set", "device": "tv", "room": "kitchen", "value": 49}}
+{"text": "increase the blinds in study", "target": {"action": "increase", "device": "blinds", "room": "office", "value": null}}
+{"text": "lamp to 45 percent please", "target": {"action": "set", "device": "light", "room": null, "value": 45}}
+{"text": "decrease the music speaker in the office by 2", "target": {"action": "decrease", "device": "speaker", "room": "office", "value": 2}}
+{"text": "turn off the music speaker in the hall", "target": {"action": "turn_off", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "Please shut the lamp off in the kitchen", "target": {"action": "turn_off", "device": "light", "room": "kitchen", "value": null}}
+{"text": "decrease the air conditioner in washroom by 2", "target": {"action": "decrease", "device": "ac", "room": "bathroom", "value": 2}}
+{"text": "curtains in the hall to 9 percent please", "target": {"action": "set", "device": "blinds", "room": "living_room", "value": 9}}
+{"text": "turn on the air conditioner in washroom", "target": {"action": "turn_on", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "change the lamp to 70 percent", "target": {"action": "set", "device": "light", "room": null, "value": 70}}
+{"text": "decrease the ceiling fan", "target": {"action": "decrease", "device": "fan", "room": null, "value": null}}
+{"text": "set the speaker in office to 22", "target": {"action": "set", "device": "speaker", "room": "office", "value": 22}}
+{"text": "can you start the light in master bedroom", "target": {"action": "turn_on", "device": "light", "room": "bedroom", "value": null}}
+{"text": "turn down the space heater in bathroom", "target": {"action": "decrease", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "Put the lights at 37 percent", "target": {"action": "set", "device": "light", "room": null, "value": 37}}
+{"text": "Put the television at 8", "target": {"action": "set", "device": "tv", "room": null, "value": 8}}
+{"text": "turn on the blinds in the office", "target": {"action": "turn_on", "device": "blinds", "room": "office", "value": null}}
+{"text": "switch off the fan in the bathroom", "target": {"action": "turn_off", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "stop the ac in the master bedroom", "target": {"action": "turn_off", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "Decrease the AC in the bedroom", "target": {"action": "decrease", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "Turn off the tv in the kitchen", "target": {"action": "turn_off", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "increase the television in hall", "target": {"action": "increase", "device": "tv", "room": "living_room", "value": null}}
+{"text": "switch on the heater in washroom", "target": {"action": "turn_on", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "lights on in office", "target": {"action": "turn_on", "device": "light", "room": "office", "value": null}}
+{"text": "Increase the light in the living room by 10", "target": {"action": "increase", "device": "light", "room": "living_room", "value": 10}}
+{"text": "decrease the TV by 5", "target": {"action": "decrease", "device": "tv", "room": null, "value": 5}}
+{"text": "raise the TV in the bathroom by 1", "target": {"action": "increase", "device": "tv", "room": "bathroom", "value": 1}}
+{"text": "space heater off in the kitchen", "target": {"action": "turn_off", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "put the music speaker in the kitchen at 24", "target": {"action": "set", "device": "speaker", "room": "kitchen", "value": 24}}
+{"text": "please turn the heater on in living room", "target": {"action": "turn_on", "device": "heater", "room": "living_room", "value": null}}
+{"text": "raise the air conditioner by 1", "target": {"action": "increase", "device": "ac", "room": null, "value": 1}}
+{"text": "Make the light in washroom 37%", "target": {"action": "set", "device": "light", "room": "bathroom", "value": 37}}
+{"text": "TV in bedroom to 59 please", "target": {"action": "set", "device": "tv", "room": "bedroom", "value": 59}}
+{"text": "put the speaker in the kitchen at 49", "target": {"action": "set", "device": "speaker", "room": "kitchen", "value": 49}}
+{"text": "increase the light in bedroom", "target": {"action": "increase", "device": "light", "room": "bedroom", "value": null}}
+{"text": "Put the fan in the kitchen at 3", "target": {"action": "set", "device": "fan", "room": "kitchen", "value": 3}}
+{"text": "decrease the lights", "target": {"action": "decrease", "device": "light", "room": null, "value": null}}
+{"text": "raise the space heater in the bathroom by 5", "target": {"action": "increase", "device": "heater", "room": "bathroom", "value": 5}}
+{"text": "can you start the air conditioner", "target": {"action": "turn_on", "device": "ac", "room": null, "value": null}}
+{"text": "Light in bedroom to 86% please", "target": {"action": "set", "device": "light", "room": "bedroom", "value": 86}}
+{"text": "light on in office", "target": {"action": "turn_on", "device": "light", "room": "office", "value": null}}
+{"text": "Raise the lights in kitchen by 10", "target": {"action": "increase", "device": "light", "room": "kitchen", "value": 10}}
+{"text": "can you start the air conditioner in the master bedroom", "target": {"action": "turn_on", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "can you start the ceiling fan in office", "target": {"action": "turn_on", "device": "fan", "room": "office", "value": null}}
+{"text": "change the fan in kitchen to 1", "target": {"action": "set", "device": "fan", "room": "kitchen", "value": 1}}
+{"text": "switch off the ceiling fan in the living room", "target": {"action": "turn_off", "device": "fan", "room": "living_room", "value": null}}
+{"text": "ceiling fan on", "target": {"action": "turn_on", "device": "fan", "room": null, "value": null}}
+{"text": "decrease the heater by 3", "target": {"action": "decrease", "device": "heater", "room": null, "value": 3}}
+{"text": "increase the heater by 3", "target": {"action": "increase", "device": "heater", "room": null, "value": 3}}
+{"text": "ac on in office", "target": {"action": "turn_on", "device": "ac", "room": "office", "value": null}}
+{"text": "can you start the music speaker in the hall", "target": {"action": "turn_on", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "decrease the music speaker in the bedroom by 10", "target": {"action": "decrease", "device": "speaker", "room": "bedroom", "value": 10}}
+{"text": "make the speaker in living room 27", "target": {"action": "set", "device": "speaker", "room": "living_room", "value": 27}}
+{"text": "turn down the television in washroom", "target": {"action": "decrease", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "set the speaker in the washroom to 47", "target": {"action": "set", "device": "speaker", "room": "bathroom", "value": 47}}
+{"text": "turn up the air conditioner in the kitchen", "target": {"action": "increase", "device": "ac", "room": "kitchen", "value": null}}
+{"text": "speaker to 21 please", "target": {"action": "set", "device": "speaker", "room": null, "value": 21}}
+{"text": "Turn up the speaker in kitchen", "target": {"action": "increase", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "Put the fan in the bedroom at 4", "target": {"action": "set", "device": "fan", "room": "bedroom", "value": 4}}
+{"text": "make the blinds in the hall 98", "target": {"action": "set", "device": "blinds", "room": "living_room", "value": 98}}
+{"text": "stop the fan in the master bedroom", "target": {"action": "turn_off", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "please shut the space heater off in the bathroom", "target": {"action": "turn_off", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "increase the curtains in master bedroom by 10", "target": {"action": "increase", "device": "blinds", "room": "bedroom", "value": 10}}
+{"text": "Turn down the tv in office", "target": {"action": "decrease", "device": "tv", "room": "office", "value": null}}
+{"text": "increase the blinds in the kitchen", "target": {"action": "increase", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "change the heater in washroom to 24 degrees", "target": {"action": "set", "device": "heater", "room": "bathroom", "value": 24}}
+{"text": "Increase the lights in office by 2", "target": {"action": "increase", "device": "light", "room": "office", "value": 2}}
+{"text": "put the lights at 28%", "target": {"action": "set", "device": "light", "room": null, "value": 28}}
+{"text": "curtains off", "target": {"action": "turn_off", "device": "blinds", "room": null, "value": null}}
+{"text": "switch on the light in the kitchen", "target": {"action": "turn_on", "device": "light", "room": "kitchen", "value": null}}
+{"text": "Turn off the ac in hall", "target": {"action": "turn_off", "device": "ac", "room": "living_room", "value": null}}
+{"text": "Increase the TV in the bathroom", "target": {"action": "increase", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "switch on the TV in the kitchen", "target": {"action": "turn_on", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "turn on the TV in kitchen", "target": {"action": "turn_on", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "please turn the music speaker on in office", "target": {"action": "turn_on", "device": "speaker", "room": "office", "value": null}}
+{"text": "Set the ceiling fan to 5", "target": {"action": "set", "device": "fan", "room": null, "value": 5}}
+{"text": "change the TV in kitchen to 58", "target": {"action": "set", "device": "tv", "room": "kitchen", "value": 58}}
+{"text": "Light off", "target": {"action": "turn_off", "device": "light", "room": null, "value": null}}
+{"text": "turn on the curtains in master bedroom", "target": {"action": "turn_on", "device": "blinds", "room": "bedroom", "value": null}}
+{"text": "decrease the heater in kitchen", "target": {"action": "decrease", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "Please turn the curtains on", "target": {"action": "turn_on", "device": "blinds", "room": null, "value": null}}
+{"text": "heater in study to 24 degrees please", "target": {"action": "set", "device": "heater", "room": "office", "value": 24}}
+{"text": "lower the air conditioner in living room by 1", "target": {"action": "decrease", "device": "ac", "room": "living_room", "value": 1}}
+{"text": "please turn the air conditioner on", "target": {"action": "turn_on", "device": "ac", "room": null, "value": null}}
+{"text": "Raise the ceiling fan by 3", "target": {"action": "increase", "device": "fan", "room": null, "value": 3}}
+{"text": "put the tv in office at 45", "target": {"action": "set", "device": "tv", "room": "office", "value": 45}}
+{"text": "Stop the lamp in the master bedroom", "target": {"action": "turn_off", "device": "light", "room": "bedroom", "value": null}}
+{"text": "please shut the curtains off", "target": {"action": "turn_off", "device": "blinds", "room": null, "value": null}}
+{"text": "turn down the lamp in washroom", "target": {"action": "decrease", "device": "light", "room": "bathroom", "value": null}}
+{"text": "can you start the television in master bedroom", "target": {"action": "turn_on", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "Switch off the lights in the hall", "target": {"action": "turn_off", "device": "light", "room": "living_room", "value": null}}
+{"text": "Change the music speaker in the office to 41", "target": {"action": "set", "device": "speaker", "room": "office", "value": 41}}
+{"text": "heater on in master bedroom", "target": {"action": "turn_on", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "decrease the TV in kitchen by 2", "target": {"action": "decrease", "device": "tv", "room": "kitchen", "value": 2}}
+{"text": "switch on the ceiling fan in bedroom", "target": {"action": "turn_on", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "change the heater in washroom to 27", "target": {"action": "set", "device": "heater", "room": "bathroom", "value": 27}}
+{"text": "raise the tv in office by 10", "target": {"action": "increase", "device": "tv", "room": "office", "value": 10}}
+{"text": "increase the heater by 2", "target": {"action": "increase", "device": "heater", "room": null, "value": 2}}
+{"text": "Turn off the heater in bathroom", "target": {"action": "turn_off", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "Put the music speaker in bedroom at 71", "target": {"action": "set", "device": "speaker", "room": "bedroom", "value": 71}}
+{"text": "decrease the AC in the bedroom by 10", "target": {"action": "decrease", "device": "ac", "room": "bedroom", "value": 10}}
+{"text": "Decrease the fan in the bedroom by 10", "target": {"action": "decrease", "device": "fan", "room": "bedroom", "value": 10}}
+{"text": "can you start the space heater", "target": {"action": "turn_on", "device": "heater", "room": null, "value": null}}
+{"text": "heater in bedroom to 22 degrees please", "target": {"action": "set", "device": "heater", "room": "bedroom", "value": 22}}
+{"text": "turn up the ceiling fan in kitchen", "target": {"action": "increase", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "stop the blinds in the kitchen", "target": {"action": "turn_off", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "change the space heater in the master bedroom to 19 degrees", "target": {"action": "set", "device": "heater", "room": "bedroom", "value": 19}}
+{"text": "stop the curtains in the kitchen", "target": {"action": "turn_off", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "decrease the heater in office by 5", "target": {"action": "decrease", "device": "heater", "room": "office", "value": 5}}
+{"text": "please shut the fan off in bathroom", "target": {"action": "turn_off", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "increase the ac in the washroom", "target": {"action": "increase", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "Put the blinds in study at 5 percent", "target": {"action": "set", "device": "blinds", "room": "office", "value": 5}}
+{"text": "decrease the heater in the bathroom by 10", "target": {"action": "decrease", "device": "heater", "room": "bathroom", "value": 10}}
+{"text": "Change the TV in the kitchen to 17", "target": {"action": "set", "device": "tv", "room": "kitchen", "value": 17}}
+{"text": "music speaker off in the kitchen", "target": {"action": "turn_off", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "lower the AC in master bedroom by 10", "target": {"action": "decrease", "device": "ac", "room": "bedroom", "value": 10}}
+{"text": "decrease the tv in study by 5", "target": {"action": "decrease", "device": "tv", "room": "office", "value": 5}}
+{"text": "increase the TV in kitchen", "target": {"action": "increase", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "decrease the TV in the master bedroom", "target": {"action": "decrease", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "Turn down the blinds in the office", "target": {"action": "decrease", "device": "blinds", "room": "office", "value": null}}
+{"text": "turn up the air conditioner in office", "target": {"action": "increase", "device": "ac", "room": "office", "value": null}}
+{"text": "decrease the heater", "target": {"action": "decrease", "device": "heater", "room": null, "value": null}}
+{"text": "lower the air conditioner by 10", "target": {"action": "decrease", "device": "ac", "room": null, "value": 10}}
+{"text": "Please shut the space heater off in washroom", "target": {"action": "turn_off", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "please shut the ac off in washroom", "target": {"action": "turn_off", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "Increase the AC in study by 10", "target": {"action": "increase", "device": "ac", "room": "office", "value": 10}}
+{"text": "decrease the space heater in office by 2", "target": {"action": "decrease", "device": "heater", "room": "office", "value": 2}}
+{"text": "Please turn the AC on in the study", "target": {"action": "turn_on", "device": "ac", "room": "office", "value": null}}
+{"text": "Decrease the ac in the bathroom by 2", "target": {"action": "decrease", "device": "ac", "room": "bathroom", "value": 2}}
+{"text": "Turn down the fan", "target": {"action": "decrease", "device": "fan", "room": null, "value": null}}
+{"text": "turn up the space heater", "target": {"action": "increase", "device": "heater", "room": null, "value": null}}
+{"text": "can you start the blinds in the living room", "target": {"action": "turn_on", "device": "blinds", "room": "living_room", "value": null}}
+{"text": "Light off in the study", "target": {"action": "turn_off", "device": "light", "room": "office", "value": null}}
+{"text": "decrease the television in the hall by 3", "target": {"action": "decrease", "device": "tv", "room": "living_room", "value": 3}}
+{"text": "increase the air conditioner in bedroom", "target": {"action": "increase", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "please shut the lights off", "target": {"action": "turn_off", "device": "light", "room": null, "value": null}}
+{"text": "ceiling fan off in the washroom", "target": {"action": "turn_off", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "Ceiling fan on in the bedroom", "target": {"action": "turn_on", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "please shut the space heater off in kitchen", "target": {"action": "turn_off", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "turn off the lights", "target": {"action": "turn_off", "device": "light", "room": null, "value": null}}
+{"text": "Increase the music speaker in the washroom by 1", "target": {"action": "increase", "device": "speaker", "room": "bathroom", "value": 1}}
+{"text": "space heater off in master bedroom", "target": {"action": "turn_off", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "Stop the blinds in master bedroom", "target": {"action": "turn_off", "device": "blinds", "room": "bedroom", "value": null}}
+{"text": "turn down the lamp in the living room", "target": {"action": "decrease", "device": "light", "room": "living_room", "value": null}}
+{"text": "turn down the space heater in living room", "target": {"action": "decrease", "device": "heater", "room": "living_room", "value": null}}
+{"text": "raise the fan in washroom by 5", "target": {"action": "increase", "device": "fan", "room": "bathroom", "value": 5}}
+{"text": "turn up the AC in the living room", "target": {"action": "increase", "device": "ac", "room": "living_room", "value": null}}
+{"text": "turn on the television in living room", "target": {"action": "turn_on", "device": "tv", "room": "living_room", "value": null}}
+{"text": "Raise the heater in the study by 1", "target": {"action": "increase", "device": "heater", "room": "office", "value": 1}}
+{"text": "turn down the heater in the bathroom", "target": {"action": "decrease", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "raise the music speaker by 10", "target": {"action": "increase", "device": "speaker", "room": null, "value": 10}}
+{"text": "Switch off the space heater in the kitchen", "target": {"action": "turn_off", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "turn up the tv in the living room", "target": {"action": "increase", "device": "tv", "room": "living_room", "value": null}}
+{"text": "increase the tv", "target": {"action": "increase", "device": "tv", "room": null, "value": null}}
+{"text": "Turn up the heater in bedroom", "target": {"action": "increase", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "decrease the air conditioner in the bathroom by 2", "target": {"action": "decrease", "device": "ac", "room": "bathroom", "value": 2}}
+{"text": "make the lights in the washroom 32", "target": {"action": "set", "device": "light", "room": "bathroom", "value": 32}}
+{"text": "increase the curtains in bathroom by 5", "target": {"action": "increase", "device": "blinds", "room": "bathroom", "value": 5}}
+{"text": "turn down the space heater in bedroom", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "Turn down the space heater in office", "target": {"action": "decrease", "device": "heater", "room": "office", "value": null}}
+{"text": "turn on the heater in kitchen", "target": {"action": "turn_on", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "Decrease the tv in living room", "target": {"action": "decrease", "device": "tv", "room": "living_room", "value": null}}
+{"text": "change the AC in living room to 30 degrees", "target": {"action": "set", "device": "ac", "room": "living_room", "value": 30}}
+{"text": "lower the music speaker in master bedroom by 2", "target": {"action": "decrease", "device": "speaker", "room": "bedroom", "value": 2}}
+{"text": "put the air conditioner in kitchen at 24", "target": {"action": "set", "device": "ac", "room": "kitchen", "value": 24}}
+{"text": "Put the fan in the kitchen at 4", "target": {"action": "set", "device": "fan", "room": "kitchen", "value": 4}}
+{"text": "Lower the tv in bathroom by 3", "target": {"action": "decrease", "device": "tv", "room": "bathroom", "value": 3}}
+{"text": "lower the curtains in master bedroom by 10", "target": {"action": "decrease", "device": "blinds", "room": "bedroom", "value": 10}}
+{"text": "increase the heater in the master bedroom by 2", "target": {"action": "increase", "device": "heater", "room": "bedroom", "value": 2}}
+{"text": "decrease the speaker in the living room", "target": {"action": "decrease", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "Switch off the light", "target": {"action": "turn_off", "device": "light", "room": null, "value": null}}
+{"text": "Raise the ac in living room by 5", "target": {"action": "increase", "device": "ac", "room": "living_room", "value": 5}}
+{"text": "decrease the music speaker in the kitchen by 1", "target": {"action": "decrease", "device": "speaker", "room": "kitchen", "value": 1}}
+{"text": "turn down the ceiling fan in master bedroom", "target": {"action": "decrease", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "AC on in the office", "target": {"action": "turn_on", "device": "ac", "room": "office", "value": null}}
+{"text": "Increase the TV in the office", "target": {"action": "increase", "device": "tv", "room": "office", "value": null}}
+{"text": "increase the speaker in the kitchen", "target": {"action": "increase", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "Decrease the heater in the kitchen", "target": {"action": "decrease", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "Make the lamp in the master bedroom 28", "target": {"action": "set", "device": "light", "room": "bedroom", "value": 28}}
+{"text": "lower the ceiling fan in the washroom by 10", "target": {"action": "decrease", "device": "fan", "room": "bathroom", "value": 10}}
+{"text": "Please turn the tv on", "target": {"action": "turn_on", "device": "tv", "room": null, "value": null}}
+{"text": "please shut the curtains off in the hall", "target": {"action": "turn_off", "device": "blinds", "room": "living_room", "value": null}}
+{"text": "increase the space heater in the master bedroom by 10", "target": {"action": "increase", "device": "heater", "room": "bedroom", "value": 10}}
+{"text": "Increase the lamp in the bathroom by 2", "target": {"action": "increase", "device": "light", "room": "bathroom", "value": 2}}
+{"text": "turn up the music speaker", "target": {"action": "increase", "device": "speaker", "room": null, "value": null}}
+{"text": "Please turn the lights on in hall", "target": {"action": "turn_on", "device": "light", "room": "living_room", "value": null}}
+{"text": "Ceiling fan on in the office", "target": {"action": "turn_on", "device": "fan", "room": "office", "value": null}}
+{"text": "decrease the light in washroom by 5", "target": {"action": "decrease", "device": "light", "room": "bathroom", "value": 5}}
+{"text": "Switch on the speaker in the washroom", "target": {"action": "turn_on", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "change the air conditioner in study to 17 degrees", "target": {"action": "set", "device": "ac", "room": "office", "value": 17}}
+{"text": "switch on the AC in the kitchen", "target": {"action": "turn_on", "device": "ac", "room": "kitchen", "value": null}}
+{"text": "air conditioner off in hall", "target": {"action": "turn_off", "device": "ac", "room": "living_room", "value": null}}
+{"text": "turn up the curtains", "target": {"action": "increase", "device": "blinds", "room": null, "value": null}}
+{"text": "switch off the space heater in kitchen", "target": {"action": "turn_off", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "Increase the television in master bedroom by 5", "target": {"action": "increase", "device": "tv", "room": "bedroom", "value": 5}}
+{"text": "turn down the fan in the washroom", "target": {"action": "decrease", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "set the blinds to 52", "target": {"action": "set", "device": "blinds", "room": null, "value": 52}}
+{"text": "switch off the AC", "target": {"action": "turn_off", "device": "ac", "room": null, "value": null}}
+{"text": "raise the lights in the study by 10", "target": {"action": "increase", "device": "light", "room": "office", "value": 10}}
+{"text": "Make the speaker in bathroom 15", "target": {"action": "set", "device": "speaker", "room": "bathroom", "value": 15}}
+{"text": "Lower the lights in the bathroom by 3", "target": {"action": "decrease", "device": "light", "room": "bathroom", "value": 3}}
+{"text": "stop the TV", "target": {"action": "turn_off", "device": "tv", "room": null, "value": null}}
+{"text": "decrease the ceiling fan in office by 5", "target": {"action": "decrease", "device": "fan", "room": "office", "value": 5}}
+{"text": "raise the light in kitchen by 1", "target": {"action": "increase", "device": "light", "room": "kitchen", "value": 1}}
+{"text": "raise the curtains in bedroom by 3", "target": {"action": "increase", "device": "blinds", "room": "bedroom", "value": 3}}
+{"text": "increase the AC in the living room by 1", "target": {"action": "increase", "device": "ac", "room": "living_room", "value": 1}}
+{"text": "switch on the speaker in bedroom", "target": {"action": "turn_on", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "Turn up the fan in study", "target": {"action": "increase", "device": "fan", "room": "office", "value": null}}
+{"text": "Lower the fan in the office by 5", "target": {"action": "decrease", "device": "fan", "room": "office", "value": 5}}
+{"text": "Can you start the tv in hall", "target": {"action": "turn_on", "device": "tv", "room": "living_room", "value": null}}
+{"text": "AC on", "target": {"action": "turn_on", "device": "ac", "room": null, "value": null}}
+{"text": "make the TV in office 30", "target": {"action": "set", "device": "tv", "room": "office", "value": 30}}
+{"text": "increase the TV in the bedroom by 10", "target": {"action": "increase", "device": "tv", "room": "bedroom", "value": 10}}
+{"text": "switch off the air conditioner in living room", "target": {"action": "turn_off", "device": "ac", "room": "living_room", "value": null}}
+{"text": "tv off in the study", "target": {"action": "turn_off", "device": "tv", "room": "office", "value": null}}
+{"text": "turn up the air conditioner in the master bedroom", "target": {"action": "increase", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "switch on the space heater in master bedroom", "target": {"action": "turn_on", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "Raise the speaker in the office by 2", "target": {"action": "increase", "device": "speaker", "room": "office", "value": 2}}
+{"text": "put the ceiling fan in the washroom at 2", "target": {"action": "set", "device": "fan", "room": "bathroom", "value": 2}}
+{"text": "put the blinds in the washroom at 69", "target": {"action": "set", "device": "blinds", "room": "bathroom", "value": 69}}
+{"text": "switch on the music speaker", "target": {"action": "turn_on", "device": "speaker", "room": null, "value": null}}
+{"text": "please turn the heater on in the kitchen", "target": {"action": "turn_on", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "turn down the speaker in the office", "target": {"action": "decrease", "device": "speaker", "room": "office", "value": null}}
+{"text": "decrease the AC in bathroom by 10", "target": {"action": "decrease", "device": "ac", "room": "bathroom", "value": 10}}
+{"text": "put the AC in the bathroom at 29", "target": {"action": "set", "device": "ac", "room": "bathroom", "value": 29}}
+{"text": "Turn up the lamp in the kitchen", "target": {"action": "increase", "device": "light", "room": "kitchen", "value": null}}
+{"text": "Curtains in master bedroom to 62 percent please", "target": {"action": "set", "device": "blinds", "room": "bedroom", "value": 62}}
+{"text": "please turn the space heater on in washroom", "target": {"action": "turn_on", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "turn on the curtains", "target": {"action": "turn_on", "device": "blinds", "room": null, "value": null}}
+{"text": "make the blinds in hall 50%", "target": {"action": "set", "device": "blinds", "room": "living_room", "value": 50}}
+{"text": "Make the air conditioner in the washroom 18", "target": {"action": "set", "device": "ac", "room": "bathroom", "value": 18}}
+{"text": "turn up the lights in the hall", "target": {"action": "increase", "device": "light", "room": "living_room", "value": null}}
+{"text": "Turn up the ceiling fan", "target": {"action": "increase", "device": "fan", "room": null, "value": null}}
+{"text": "Put the lamp at 42 percent", "target": {"action": "set", "device": "light", "room": null, "value": 42}}
+{"text": "Turn up the music speaker in the kitchen", "target": {"action": "increase", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "Turn up the lamp in the master bedroom", "target": {"action": "increase", "device": "light", "room": "bedroom", "value": null}}
+{"text": "Curtains in the living room to 88% please", "target": {"action": "set", "device": "blinds", "room": "living_room", "value": 88}}
+{"text": "ac in the bedroom to 28 please", "target": {"action": "set", "device": "ac", "room": "bedroom", "value": 28}}
+{"text": "switch on the television", "target": {"action": "turn_on", "device": "tv", "room": null, "value": null}}
+{"text": "switch off the music speaker", "target": {"action": "turn_off", "device": "speaker", "room": null, "value": null}}
+{"text": "increase the blinds in the bedroom", "target": {"action": "increase", "device": "blinds", "room": "bedroom", "value": null}}
+{"text": "Increase the ac in the study by 2", "target": {"action": "increase", "device": "ac", "room": "office", "value": 2}}
+{"text": "decrease the TV by 1", "target": {"action": "decrease", "device": "tv", "room": null, "value": 1}}
+{"text": "stop the tv in washroom", "target": {"action": "turn_off", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "turn off the heater in the study", "target": {"action": "turn_off", "device": "heater", "room": "office", "value": null}}
+{"text": "switch on the air conditioner in kitchen", "target": {"action": "turn_on", "device": "ac", "room": "kitchen", "value": null}}
+{"text": "Turn off the blinds in the office", "target": {"action": "turn_off", "device": "blinds", "room": "office", "value": null}}
+{"text": "can you start the lights in study", "target": {"action": "turn_on", "device": "light", "room": "office", "value": null}}
+{"text": "can you start the speaker in the washroom", "target": {"action": "turn_on", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "decrease the fan in master bedroom by 5", "target": {"action": "decrease", "device": "fan", "room": "bedroom", "value": 5}}
+{"text": "turn off the lights in bedroom", "target": {"action": "turn_off", "device": "light", "room": "bedroom", "value": null}}
+{"text": "Switch on the ac", "target": {"action": "turn_on", "device": "ac", "room": null, "value": null}}
+{"text": "Switch off the music speaker in hall", "target": {"action": "turn_off", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "Turn off the speaker in kitchen", "target": {"action": "turn_off", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "Can you start the AC", "target": {"action": "turn_on", "device": "ac", "room": null, "value": null}}
+{"text": "Increase the television in kitchen", "target": {"action": "increase", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "turn on the tv", "target": {"action": "turn_on", "device": "tv", "room": null, "value": null}}
+{"text": "switch on the light in hall", "target": {"action": "turn_on", "device": "light", "room": "living_room", "value": null}}
+{"text": "Stop the ceiling fan in living room", "target": {"action": "turn_off", "device": "fan", "room": "living_room", "value": null}}
+{"text": "Make the AC in the living room 21 degrees", "target": {"action": "set", "device": "ac", "room": "living_room", "value": 21}}
+{"text": "decrease the lights in study", "target": {"action": "decrease", "device": "light", "room": "office", "value": null}}
+{"text": "decrease the space heater in the hall by 2", "target": {"action": "decrease", "device": "heater", "room": "living_room", "value": 2}}
+{"text": "Turn down the heater in bedroom", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "Decrease the air conditioner", "target": {"action": "decrease", "device": "ac", "room": null, "value": null}}
+{"text": "increase the blinds by 1", "target": {"action": "increase", "device": "blinds", "room": null, "value": 1}}
+{"text": "Turn off the heater in the study", "target": {"action": "turn_off", "device": "heater", "room": "office", "value": null}}
+{"text": "curtains off in the washroom", "target": {"action": "turn_off", "device": "blinds", "room": "bathroom", "value": null}}
+{"text": "lower the fan by 1", "target": {"action": "decrease", "device": "fan", "room": null, "value": 1}}
+{"text": "please shut the ceiling fan off in kitchen", "target": {"action": "turn_off", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "Change the fan in the living room to 2", "target": {"action": "set", "device": "fan", "room": "living_room", "value": 2}}
+{"text": "increase the AC in the study", "target": {"action": "increase", "device": "ac", "room": "office", "value": null}}
+{"text": "Increase the ac in the hall", "target": {"action": "increase", "device": "ac", "room": "living_room", "value": null}}
+{"text": "Change the ceiling fan in living room to 3", "target": {"action": "set", "device": "fan", "room": "living_room", "value": 3}}
+{"text": "lamp off in the office", "target": {"action": "turn_off", "device": "light", "room": "office", "value": null}}
+{"text": "turn off the light in the living room", "target": {"action": "turn_off", "device": "light", "room": "living_room", "value": null}}
+{"text": "set the music speaker to 79", "target": {"action": "set", "device": "speaker", "room": null, "value": 79}}
+{"text": "Switch on the lamp in the hall", "target": {"action": "turn_on", "device": "light", "room": "living_room", "value": null}}
+{"text": "Lamp in hall to 16 percent please", "target": {"action": "set", "device": "light", "room": "living_room", "value": 16}}
+{"text": "turn up the fan in kitchen", "target": {"action": "increase", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "stop the lamp in bathroom", "target": {"action": "turn_off", "device": "light", "room": "bathroom", "value": null}}
+{"text": "decrease the space heater in the hall", "target": {"action": "decrease", "device": "heater", "room": "living_room", "value": null}}
+{"text": "Space heater in washroom to 23 please", "target": {"action": "set", "device": "heater", "room": "bathroom", "value": 23}}
+{"text": "set the television in bedroom to 56", "target": {"action": "set", "device": "tv", "room": "bedroom", "value": 56}}
+{"text": "decrease the fan in bedroom", "target": {"action": "decrease", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "Can you start the curtains in the master bedroom", "target": {"action": "turn_on", "device": "blinds", "room": "bedroom", "value": null}}
+{"text": "decrease the ac by 10", "target": {"action": "decrease", "device": "ac", "room": null, "value": 10}}
+{"text": "Change the tv in washroom to 41", "target": {"action": "set", "device": "tv", "room": "bathroom", "value": 41}}
+{"text": "switch on the lamp in the living room", "target": {"action": "turn_on", "device": "light", "room": "living_room", "value": null}}
+{"text": "switch on the ac in the washroom", "target": {"action": "turn_on", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "change the light in living room to 85", "target": {"action": "set", "device": "light", "room": "living_room", "value": 85}}
+{"text": "speaker to 80 please", "target": {"action": "set", "device": "speaker", "room": null, "value": 80}}
+{"text": "Ceiling fan in bedroom to 4 please", "target": {"action": "set", "device": "fan", "room": "bedroom", "value": 4}}
+{"text": "lower the curtains in the bedroom by 3", "target": {"action": "decrease", "device": "blinds", "room": "bedroom", "value": 3}}
+{"text": "decrease the heater in the washroom", "target": {"action": "decrease", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "Please shut the music speaker off in living room", "target": {"action": "turn_off", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "turn on the AC in the kitchen", "target": {"action": "turn_on", "device": "ac", "room": "kitchen", "value": null}}
+{"text": "raise the ceiling fan in the study by 5", "target": {"action": "increase", "device": "fan", "room": "office", "value": 5}}
+{"text": "turn down the speaker", "target": {"action": "decrease", "device": "speaker", "room": null, "value": null}}
+{"text": "please turn the air conditioner on in the living room", "target": {"action": "turn_on", "device": "ac", "room": "living_room", "value": null}}
+{"text": "increase the fan", "target": {"action": "increase", "device": "fan", "room": null, "value": null}}
+{"text": "decrease the space heater", "target": {"action": "decrease", "device": "heater", "room": null, "value": null}}
+{"text": "Switch off the tv in office", "target": {"action": "turn_off", "device": "tv", "room": "office", "value": null}}
+{"text": "stop the space heater", "target": {"action": "turn_off", "device": "heater", "room": null, "value": null}}
+{"text": "set the ceiling fan in the living room to 4", "target": {"action": "set", "device": "fan", "room": "living_room", "value": 4}}
+{"text": "Raise the light in the kitchen by 2", "target": {"action": "increase", "device": "light", "room": "kitchen", "value": 2}}
+{"text": "Set the lights in study to 49", "target": {"action": "set", "device": "light", "room": "office", "value": 49}}
+{"text": "Decrease the space heater in bedroom by 5", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": 5}}
+{"text": "turn up the space heater in the kitchen", "target": {"action": "increase", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "please turn the lamp on", "target": {"action": "turn_on", "device": "light", "room": null, "value": null}}
+{"text": "decrease the ceiling fan in washroom", "target": {"action": "decrease", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "Turn off the space heater in the kitchen", "target": {"action": "turn_off", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "turn up the fan in the bedroom", "target": {"action": "increase", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "turn up the ceiling fan", "target": {"action": "increase", "device": "fan", "room": null, "value": null}}
+{"text": "Can you start the curtains", "target": {"action": "turn_on", "device": "blinds", "room": null, "value": null}}
+{"text": "stop the fan in the bathroom", "target": {"action": "turn_off", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "Decrease the AC in study by 5", "target": {"action": "decrease", "device": "ac", "room": "office", "value": 5}}
+{"text": "make the space heater in bedroom 27", "target": {"action": "set", "device": "heater", "room": "bedroom", "value": 27}}
+{"text": "set the music speaker in the master bedroom to 65", "target": {"action": "set", "device": "speaker", "room": "bedroom", "value": 65}}
+{"text": "ac in the kitchen to 29 please", "target": {"action": "set", "device": "ac", "room": "kitchen", "value": 29}}
+{"text": "Increase the blinds in kitchen by 5", "target": {"action": "increase", "device": "blinds", "room": "kitchen", "value": 5}}
+{"text": "increase the speaker in office by 1", "target": {"action": "increase", "device": "speaker", "room": "office", "value": 1}}
+{"text": "increase the fan in the bathroom", "target": {"action": "increase", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "turn off the lights in office", "target": {"action": "turn_off", "device": "light", "room": "office", "value": null}}
+{"text": "increase the TV in the office", "target": {"action": "increase", "device": "tv", "room": "office", "value": null}}
+{"text": "lower the space heater in the master bedroom by 10", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": 10}}
+{"text": "set the speaker to 41", "target": {"action": "set", "device": "speaker", "room": null, "value": 41}}
+{"text": "Switch off the blinds in the bathroom", "target": {"action": "turn_off", "device": "blinds", "room": "bathroom", "value": null}}
+{"text": "increase the television in the living room", "target": {"action": "increase", "device": "tv", "room": "living_room", "value": null}}
+{"text": "can you start the ceiling fan in kitchen", "target": {"action": "turn_on", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "change the space heater in the kitchen to 25 degrees", "target": {"action": "set", "device": "heater", "room": "kitchen", "value": 25}}
+{"text": "Make the television 43", "target": {"action": "set", "device": "tv", "room": null, "value": 43}}
+{"text": "Please turn the space heater on in hall", "target": {"action": "turn_on", "device": "heater", "room": "living_room", "value": null}}
+{"text": "make the fan in master bedroom 2", "target": {"action": "set", "device": "fan", "room": "bedroom", "value": 2}}
+{"text": "please turn the music speaker on in study", "target": {"action": "turn_on", "device": "speaker", "room": "office", "value": null}}
+{"text": "music speaker off in the washroom", "target": {"action": "turn_off", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "decrease the ceiling fan in kitchen", "target": {"action": "decrease", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "decrease the blinds in the master bedroom by 1", "target": {"action": "decrease", "device": "blinds", "room": "bedroom", "value": 1}}
+{"text": "Put the space heater in kitchen at 22", "target": {"action": "set", "device": "heater", "room": "kitchen", "value": 22}}
+{"text": "decrease the television in the bathroom", "target": {"action": "decrease", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "raise the tv in the kitchen by 1", "target": {"action": "increase", "device": "tv", "room": "kitchen", "value": 1}}
+{"text": "decrease the heater in master bedroom by 2", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": 2}}
+{"text": "turn off the ac", "target": {"action": "turn_off", "device": "ac", "room": null, "value": null}}
+{"text": "Stop the blinds in the master bedroom", "target": {"action": "turn_off", "device": "blinds", "room": "bedroom", "value": null}}
+{"text": "Raise the music speaker in the study by 5", "target": {"action": "increase", "device": "speaker", "room": "office", "value": 5}}
+{"text": "turn off the music speaker in the kitchen", "target": {"action": "turn_off", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "Please shut the ceiling fan off", "target": {"action": "turn_off", "device": "fan", "room": null, "value": null}}
+{"text": "increase the tv in bathroom by 2", "target": {"action": "increase", "device": "tv", "room": "bathroom", "value": 2}}
+{"text": "increase the speaker in washroom by 5", "target": {"action": "increase", "device": "speaker", "room": "bathroom", "value": 5}}
+{"text": "Turn off the fan in the office", "target": {"action": "turn_off", "device": "fan", "room": "office", "value": null}}
+{"text": "switch on the tv in the washroom", "target": {"action": "turn_on", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "Make the blinds in the bathroom 6", "target": {"action": "set", "device": "blinds", "room": "bathroom", "value": 6}}
+{"text": "heater on in study", "target": {"action": "turn_on", "device": "heater", "room": "office", "value": null}}
+{"text": "turn off the music speaker", "target": {"action": "turn_off", "device": "speaker", "room": null, "value": null}}
+{"text": "please turn the speaker on in the washroom", "target": {"action": "turn_on", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "decrease the light in the kitchen", "target": {"action": "decrease", "device": "light", "room": "kitchen", "value": null}}
+{"text": "change the curtains in the bathroom to 45", "target": {"action": "set", "device": "blinds", "room": "bathroom", "value": 45}}
+{"text": "please shut the speaker off in the office", "target": {"action": "turn_off", "device": "speaker", "room": "office", "value": null}}
+{"text": "blinds on in the bathroom", "target": {"action": "turn_on", "device": "blinds", "room": "bathroom", "value": null}}
+{"text": "switch on the air conditioner", "target": {"action": "turn_on", "device": "ac", "room": null, "value": null}}
+{"text": "set the ac in study to 17", "target": {"action": "set", "device": "ac", "room": "office", "value": 17}}
+{"text": "Set the heater to 19", "target": {"action": "set", "device": "heater", "room": null, "value": 19}}
+{"text": "Increase the television in the kitchen", "target": {"action": "increase", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "Raise the space heater in the kitchen by 5", "target": {"action": "increase", "device": "heater", "room": "kitchen", "value": 5}}
+{"text": "Turn on the curtains in master bedroom", "target": {"action": "turn_on", "device": "blinds", "room": "bedroom", "value": null}}
+{"text": "Increase the blinds in kitchen", "target": {"action": "increase", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "increase the space heater in the hall", "target": {"action": "increase", "device": "heater", "room": "living_room", "value": null}}
+{"text": "turn down the curtains", "target": {"action": "decrease", "device": "blinds", "room": null, "value": null}}
+{"text": "Turn down the lights in study", "target": {"action": "decrease", "device": "light", "room": "office", "value": null}}
+{"text": "decrease the TV in living room", "target": {"action": "decrease", "device": "tv", "room": "living_room", "value": null}}
+{"text": "Please shut the light off in study", "target": {"action": "turn_off", "device": "light", "room": "office", "value": null}}
+{"text": "television off", "target": {"action": "turn_off", "device": "tv", "room": null, "value": null}}
+{"text": "can you start the space heater in office", "target": {"action": "turn_on", "device": "heater", "room": "office", "value": null}}
+{"text": "turn on the heater", "target": {"action": "turn_on", "device": "heater", "room": null, "value": null}}
+{"text": "turn on the tv in the washroom", "target": {"action": "turn_on", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "increase the ac in kitchen", "target": {"action": "increase", "device": "ac", "room": "kitchen", "value": null}}
+{"text": "Decrease the tv in the office by 5", "target": {"action": "decrease", "device": "tv", "room": "office", "value": 5}}
+{"text": "Put the blinds at 70", "target": {"action": "set", "device": "blinds", "room": null, "value": 70}}
+{"text": "Heater off in the master bedroom", "target": {"action": "turn_off", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "Turn up the ceiling fan in office", "target": {"action": "increase", "device": "fan", "room": "office", "value": null}}
+{"text": "Lower the lamp in office by 10", "target": {"action": "decrease", "device": "light", "room": "office", "value": 10}}
+{"text": "can you start the television in the office", "target": {"action": "turn_on", "device": "tv", "room": "office", "value": null}}
+{"text": "stop the lamp in study", "target": {"action": "turn_off", "device": "light", "room": "office", "value": null}}
+{"text": "decrease the music speaker in master bedroom by 5", "target": {"action": "decrease", "device": "speaker", "room": "bedroom", "value": 5}}
+{"text": "Stop the space heater in the washroom", "target": {"action": "turn_off", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "decrease the speaker in the kitchen by 2", "target": {"action": "decrease", "device": "speaker", "room": "kitchen", "value": 2}}
+{"text": "lower the space heater in the washroom by 10", "target": {"action": "decrease", "device": "heater", "room": "bathroom", "value": 10}}
+{"text": "turn on the heater in bedroom", "target": {"action": "turn_on", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "please shut the ac off", "target": {"action": "turn_off", "device": "ac", "room": null, "value": null}}
+{"text": "set the ceiling fan in the bathroom to 3", "target": {"action": "set", "device": "fan", "room": "bathroom", "value": 3}}
+{"text": "decrease the space heater in master bedroom by 1", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": 1}}
+{"text": "set the television in living room to 52", "target": {"action": "set", "device": "tv", "room": "living_room", "value": 52}}
+{"text": "Make the blinds in washroom 94", "target": {"action": "set", "device": "blinds", "room": "bathroom", "value": 94}}
+{"text": "can you start the fan in the master bedroom", "target": {"action": "turn_on", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "turn down the AC in the master bedroom", "target": {"action": "decrease", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "please shut the lamp off in bedroom", "target": {"action": "turn_off", "device": "light", "room": "bedroom", "value": null}}
+{"text": "decrease the TV in the kitchen", "target": {"action": "decrease", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "turn down the lights in the washroom", "target": {"action": "decrease", "device": "light", "room": "bathroom", "value": null}}
+{"text": "please shut the music speaker off in the kitchen", "target": {"action": "turn_off", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "Decrease the tv in study", "target": {"action": "decrease", "device": "tv", "room": "office", "value": null}}
+{"text": "decrease the TV in master bedroom", "target": {"action": "decrease", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "can you start the space heater in kitchen", "target": {"action": "turn_on", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "decrease the space heater in office", "target": {"action": "decrease", "device": "heater", "room": "office", "value": null}}
+{"text": "can you start the fan in the bathroom", "target": {"action": "turn_on", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "Blinds off", "target": {"action": "turn_off", "device": "blinds", "room": null, "value": null}}
+{"text": "Turn up the speaker in hall", "target": {"action": "increase", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "please turn the lamp on in the bedroom", "target": {"action": "turn_on", "device": "light", "room": "bedroom", "value": null}}
+{"text": "raise the space heater in office by 5", "target": {"action": "increase", "device": "heater", "room": "office", "value": 5}}
+{"text": "decrease the lamp", "target": {"action": "decrease", "device": "light", "room": null, "value": null}}
+{"text": "Turn on the air conditioner in the washroom", "target": {"action": "turn_on", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "Increase the space heater in the office", "target": {"action": "increase", "device": "heater", "room": "office", "value": null}}
+{"text": "increase the curtains in the washroom by 2", "target": {"action": "increase", "device": "blinds", "room": "bathroom", "value": 2}}
+{"text": "decrease the fan in the hall", "target": {"action": "decrease", "device": "fan", "room": "living_room", "value": null}}
+{"text": "make the fan in the office 2", "target": {"action": "set", "device": "fan", "room": "office", "value": 2}}
+{"text": "Change the fan in the hall to 5", "target": {"action": "set", "device": "fan", "room": "living_room", "value": 5}}
+{"text": "switch on the AC in hall", "target": {"action": "turn_on", "device": "ac", "room": "living_room", "value": null}}
+{"text": "stop the light in kitchen", "target": {"action": "turn_off", "device": "light", "room": "kitchen", "value": null}}
+{"text": "Put the TV at 49", "target": {"action": "set", "device": "tv", "room": null, "value": 49}}
+{"text": "lower the ac in the kitchen by 2", "target": {"action": "decrease", "device": "ac", "room": "kitchen", "value": 2}}
+{"text": "turn up the AC in kitchen", "target": {"action": "increase", "device": "ac", "room": "kitchen", "value": null}}
+{"text": "blinds in the kitchen to 70 percent please", "target": {"action": "set", "device": "blinds", "room": "kitchen", "value": 70}}
+{"text": "Turn off the AC", "target": {"action": "turn_off", "device": "ac", "room": null, "value": null}}
+{"text": "turn on the curtains in the bathroom", "target": {"action": "turn_on", "device": "blinds", "room": "bathroom", "value": null}}
+{"text": "turn down the television in the study", "target": {"action": "decrease", "device": "tv", "room": "office", "value": null}}
+{"text": "turn down the music speaker in kitchen", "target": {"action": "decrease", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "Can you start the speaker in bedroom", "target": {"action": "turn_on", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "turn down the TV", "target": {"action": "decrease", "device": "tv", "room": null, "value": null}}
+{"text": "light in bedroom to 39% please", "target": {"action": "set", "device": "light", "room": "bedroom", "value": 39}}
+{"text": "increase the lamp in hall by 1", "target": {"action": "increase", "device": "light", "room": "living_room", "value": 1}}
+{"text": "lower the fan in study by 3", "target": {"action": "decrease", "device": "fan", "room": "office", "value": 3}}
+{"text": "please shut the television off in study", "target": {"action": "turn_off", "device": "tv", "room": "office", "value": null}}
+{"text": "tv on in the bedroom", "target": {"action": "turn_on", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "change the ceiling fan in the bedroom to 2", "target": {"action": "set", "device": "fan", "room": "bedroom", "value": 2}}
+{"text": "music speaker in the living room to 66 please", "target": {"action": "set", "device": "speaker", "room": "living_room", "value": 66}}
+{"text": "increase the light in the bedroom", "target": {"action": "increase", "device": "light", "room": "bedroom", "value": null}}
+{"text": "turn on the tv in the master bedroom", "target": {"action": "turn_on", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "Increase the TV in the washroom", "target": {"action": "increase", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "turn down the heater in the study", "target": {"action": "decrease", "device": "heater", "room": "office", "value": null}}
+{"text": "Stop the television", "target": {"action": "turn_off", "device": "tv", "room": null, "value": null}}
+{"text": "Make the space heater in the bathroom 19 degrees", "target": {"action": "set", "device": "heater", "room": "bathroom", "value": 19}}
+{"text": "lower the blinds in bathroom by 2", "target": {"action": "decrease", "device": "blinds", "room": "bathroom", "value": 2}}
+{"text": "decrease the light in the washroom", "target": {"action": "decrease", "device": "light", "room": "bathroom", "value": null}}
+{"text": "lower the curtains in the hall by 10", "target": {"action": "decrease", "device": "blinds", "room": "living_room", "value": 10}}
+{"text": "Raise the fan in the study by 3", "target": {"action": "increase", "device": "fan", "room": "office", "value": 3}}
+{"text": "Please shut the curtains off in the hall", "target": {"action": "turn_off", "device": "blinds", "room": "living_room", "value": null}}
+{"text": "turn on the TV in bathroom", "target": {"action": "turn_on", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "set the space heater in kitchen to 20 degrees", "target": {"action": "set", "device": "heater", "room": "kitchen", "value": 20}}
+{"text": "lower the air conditioner by 2", "target": {"action": "decrease", "device": "ac", "room": null, "value": 2}}
+{"text": "decrease the space heater in master bedroom by 10", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": 10}}
+{"text": "Increase the speaker in the master bedroom", "target": {"action": "increase", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "decrease the heater in the kitchen", "target": {"action": "decrease", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "Heater off in bathroom", "target": {"action": "turn_off", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "television on in the hall", "target": {"action": "turn_on", "device": "tv", "room": "living_room", "value": null}}
+{"text": "Speaker off in office", "target": {"action": "turn_off", "device": "speaker", "room": "office", "value": null}}
+{"text": "turn down the TV in the bathroom", "target": {"action": "decrease", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "please turn the ceiling fan on in hall", "target": {"action": "turn_on", "device": "fan", "room": "living_room", "value": null}}
+{"text": "turn off the tv in hall", "target": {"action": "turn_off", "device": "tv", "room": "living_room", "value": null}}
+{"text": "Change the ceiling fan in bathroom to 4", "target": {"action": "set", "device": "fan", "room": "bathroom", "value": 4}}
+{"text": "decrease the lamp in washroom", "target": {"action": "decrease", "device": "light", "room": "bathroom", "value": null}}
+{"text": "decrease the air conditioner in the washroom by 5", "target": {"action": "decrease", "device": "ac", "room": "bathroom", "value": 5}}
+{"text": "Increase the music speaker in office", "target": {"action": "increase", "device": "speaker", "room": "office", "value": null}}
+{"text": "Set the television in bathroom to 49", "target": {"action": "set", "device": "tv", "room": "bathroom", "value": 49}}
+{"text": "change the lamp in the washroom to 70%", "target": {"action": "set", "device": "light", "room": "bathroom", "value": 70}}
+{"text": "switch off the heater", "target": {"action": "turn_off", "device": "heater", "room": null, "value": null}}
+{"text": "Change the ceiling fan in the bedroom to 2", "target": {"action": "set", "device": "fan", "room": "bedroom", "value": 2}}
+{"text": "speaker on", "target": {"action": "turn_on", "device": "speaker", "room": null, "value": null}}
+{"text": "decrease the lights in study by 10", "target": {"action": "decrease", "device": "light", "room": "office", "value": 10}}
+{"text": "turn down the AC in the office", "target": {"action": "decrease", "device": "ac", "room": "office", "value": null}}
+{"text": "increase the space heater in the washroom", "target": {"action": "increase", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "music speaker on in the bathroom", "target": {"action": "turn_on", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "increase the TV in the hall by 3", "target": {"action": "increase", "device": "tv", "room": "living_room", "value": 3}}
+{"text": "stop the air conditioner in the study", "target": {"action": "turn_off", "device": "ac", "room": "office", "value": null}}
+{"text": "please shut the space heater off", "target": {"action": "turn_off", "device": "heater", "room": null, "value": null}}
+{"text": "make the heater in bedroom 20", "target": {"action": "set", "device": "heater", "room": "bedroom", "value": 20}}
+{"text": "turn down the heater in office", "target": {"action": "decrease", "device": "heater", "room": "office", "value": null}}
+{"text": "Switch off the space heater in study", "target": {"action": "turn_off", "device": "heater", "room": "office", "value": null}}
+{"text": "Decrease the lamp in the office", "target": {"action": "decrease", "device": "light", "room": "office", "value": null}}
+{"text": "set the space heater to 25", "target": {"action": "set", "device": "heater", "room": null, "value": 25}}
+{"text": "decrease the television in kitchen by 1", "target": {"action": "decrease", "device": "tv", "room": "kitchen", "value": 1}}
+{"text": "turn down the ceiling fan in washroom", "target": {"action": "decrease", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "raise the curtains by 1", "target": {"action": "increase", "device": "blinds", "room": null, "value": 1}}
+{"text": "turn up the music speaker in master bedroom", "target": {"action": "increase", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "please turn the light on in master bedroom", "target": {"action": "turn_on", "device": "light", "room": "bedroom", "value": null}}
+{"text": "television to 22 please", "target": {"action": "set", "device": "tv", "room": null, "value": 22}}
+{"text": "make the music speaker in the bathroom 62", "target": {"action": "set", "device": "speaker", "room": "bathroom", "value": 62}}
+{"text": "please shut the speaker off in the bedroom", "target": {"action": "turn_off", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "can you start the light in office", "target": {"action": "turn_on", "device": "light", "room": "office", "value": null}}
+{"text": "can you start the light in kitchen", "target": {"action": "turn_on", "device": "light", "room": "kitchen", "value": null}}
+{"text": "Speaker off in the kitchen", "target": {"action": "turn_off", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "curtains in the kitchen to 59 please", "target": {"action": "set", "device": "blinds", "room": "kitchen", "value": 59}}
+{"text": "lower the ceiling fan in washroom by 10", "target": {"action": "decrease", "device": "fan", "room": "bathroom", "value": 10}}
+{"text": "Curtains off in hall", "target": {"action": "turn_off", "device": "blinds", "room": "living_room", "value": null}}
+{"text": "Make the light in hall 27%", "target": {"action": "set", "device": "light", "room": "living_room", "value": 27}}
+{"text": "turn up the blinds in the kitchen", "target": {"action": "increase", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "Turn down the heater in study", "target": {"action": "decrease", "device": "heater", "room": "office", "value": null}}
+{"text": "Switch on the space heater", "target": {"action": "turn_on", "device": "heater", "room": null, "value": null}}
+{"text": "Lower the blinds in the kitchen by 2", "target": {"action": "decrease", "device": "blinds", "room": "kitchen", "value": 2}}
+{"text": "Increase the television in office by 10", "target": {"action": "increase", "device": "tv", "room": "office", "value": 10}}
+{"text": "Switch on the tv in hall", "target": {"action": "turn_on", "device": "tv", "room": "living_room", "value": null}}
+{"text": "turn up the speaker in the living room", "target": {"action": "increase", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "heater in the kitchen to 23 degrees please", "target": {"action": "set", "device": "heater", "room": "kitchen", "value": 23}}
+{"text": "Light off in the kitchen", "target": {"action": "turn_off", "device": "light", "room": "kitchen", "value": null}}
+{"text": "Set the blinds in study to 15", "target": {"action": "set", "device": "blinds", "room": "office", "value": 15}}
+{"text": "turn on the fan in study", "target": {"action": "turn_on", "device": "fan", "room": "office", "value": null}}
+{"text": "set the AC in bedroom to 27", "target": {"action": "set", "device": "ac", "room": "bedroom", "value": 27}}
+{"text": "set the fan in kitchen to 2", "target": {"action": "set", "device": "fan", "room": "kitchen", "value": 2}}
+{"text": "Stop the blinds in the kitchen", "target": {"action": "turn_off", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "TV on", "target": {"action": "turn_on", "device": "tv", "room": null, "value": null}}
+{"text": "change the curtains in the living room to 20 percent", "target": {"action": "set", "device": "blinds", "room": "living_room", "value": 20}}
+{"text": "turn off the speaker in the washroom", "target": {"action": "turn_off", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "Decrease the blinds by 5", "target": {"action": "decrease", "device": "blinds", "room": null, "value": 5}}
+{"text": "turn up the air conditioner", "target": {"action": "increase", "device": "ac", "room": null, "value": null}}
+{"text": "increase the music speaker in the office by 10", "target": {"action": "increase", "device": "speaker", "room": "office", "value": 10}}
+{"text": "put the speaker in the office at 75", "target": {"action": "set", "device": "speaker", "room": "office", "value": 75}}
+{"text": "TV in the kitchen to 5 please", "target": {"action": "set", "device": "tv", "room": "kitchen", "value": 5}}
+{"text": "Turn down the curtains in kitchen", "target": {"action": "decrease", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "turn up the curtains in washroom", "target": {"action": "increase", "device": "blinds", "room": "bathroom", "value": null}}
+{"text": "turn on the light in the bathroom", "target": {"action": "turn_on", "device": "light", "room": "bathroom", "value": null}}
+{"text": "switch off the light in office", "target": {"action": "turn_off", "device": "light", "room": "office", "value": null}}
+{"text": "Decrease the television by 1", "target": {"action": "decrease", "device": "tv", "room": null, "value": 1}}
+{"text": "light on in the master bedroom", "target": {"action": "turn_on", "device": "light", "room": "bedroom", "value": null}}
+{"text": "increase the curtains in the kitchen", "target": {"action": "increase", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "Turn on the fan in bathroom", "target": {"action": "turn_on", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "turn down the music speaker in bedroom", "target": {"action": "decrease", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "turn up the lamp in master bedroom", "target": {"action": "increase", "device": "light", "room": "bedroom", "value": null}}
+{"text": "decrease the TV in study by 3", "target": {"action": "decrease", "device": "tv", "room": "office", "value": 3}}
+{"text": "increase the blinds by 10", "target": {"action": "increase", "device": "blinds", "room": null, "value": 10}}
+{"text": "please shut the space heater off in washroom", "target": {"action": "turn_off", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "Please turn the speaker on in living room", "target": {"action": "turn_on", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "Turn off the ceiling fan in the kitchen", "target": {"action": "turn_off", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "put the fan in bedroom at 3", "target": {"action": "set", "device": "fan", "room": "bedroom", "value": 3}}
+{"text": "can you start the tv in office", "target": {"action": "turn_on", "device": "tv", "room": "office", "value": null}}
+{"text": "stop the heater", "target": {"action": "turn_off", "device": "heater", "room": null, "value": null}}
+{"text": "make the lights 58%", "target": {"action": "set", "device": "light", "room": null, "value": 58}}
+{"text": "turn up the heater in the hall", "target": {"action": "increase", "device": "heater", "room": "living_room", "value": null}}
+{"text": "Can you start the ac in the washroom", "target": {"action": "turn_on", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "increase the heater in washroom", "target": {"action": "increase", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "Turn off the ceiling fan in kitchen", "target": {"action": "turn_off", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "turn up the tv in the study", "target": {"action": "increase", "device": "tv", "room": "office", "value": null}}
+{"text": "turn down the fan in bathroom", "target": {"action": "decrease", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "set the music speaker in washroom to 19", "target": {"action": "set", "device": "speaker", "room": "bathroom", "value": 19}}
+{"text": "set the air conditioner in the washroom to 28 degrees", "target": {"action": "set", "device": "ac", "room": "bathroom", "value": 28}}
+{"text": "please shut the fan off", "target": {"action": "turn_off", "device": "fan", "room": null, "value": null}}
+{"text": "turn on the light", "target": {"action": "turn_on", "device": "light", "room": null, "value": null}}
+{"text": "turn off the curtains in kitchen", "target": {"action": "turn_off", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "can you start the ac in bedroom", "target": {"action": "turn_on", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "Decrease the music speaker in bedroom", "target": {"action": "decrease", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "make the fan 3", "target": {"action": "set", "device": "fan", "room": null, "value": 3}}
+{"text": "Please turn the lamp on in the study", "target": {"action": "turn_on", "device": "light", "room": "office", "value": null}}
+{"text": "Increase the ceiling fan in the study", "target": {"action": "increase", "device": "fan", "room": "office", "value": null}}
+{"text": "decrease the heater in bathroom", "target": {"action": "decrease", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "increase the music speaker in master bedroom", "target": {"action": "increase", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "turn off the TV in kitchen", "target": {"action": "turn_off", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "switch on the tv in kitchen", "target": {"action": "turn_on", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "can you start the speaker in the study", "target": {"action": "turn_on", "device": "speaker", "room": "office", "value": null}}
+{"text": "increase the AC in the bathroom by 5", "target": {"action": "increase", "device": "ac", "room": "bathroom", "value": 5}}
+{"text": "turn down the tv", "target": {"action": "decrease", "device": "tv", "room": null, "value": null}}
+{"text": "turn down the fan in the study", "target": {"action": "decrease", "device": "fan", "room": "office", "value": null}}
+{"text": "switch on the fan in kitchen", "target": {"action": "turn_on", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "Put the heater at 20", "target": {"action": "set", "device": "heater", "room": null, "value": 20}}
+{"text": "Can you start the curtains in the bathroom", "target": {"action": "turn_on", "device": "blinds", "room": "bathroom", "value": null}}
+{"text": "Ac on in hall", "target": {"action": "turn_on", "device": "ac", "room": "living_room", "value": null}}
+{"text": "Turn up the heater in the office", "target": {"action": "increase", "device": "heater", "room": "office", "value": null}}
+{"text": "Switch on the AC in the office", "target": {"action": "turn_on", "device": "ac", "room": "office", "value": null}}
+{"text": "raise the curtains in bathroom by 3", "target": {"action": "increase", "device": "blinds", "room": "bathroom", "value": 3}}
+{"text": "decrease the speaker in washroom", "target": {"action": "decrease", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "can you start the ceiling fan in bathroom", "target": {"action": "turn_on", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "ceiling fan on in kitchen", "target": {"action": "turn_on", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "increase the AC in bathroom", "target": {"action": "increase", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "increase the light", "target": {"action": "increase", "device": "light", "room": null, "value": null}}
+{"text": "lower the ceiling fan in the office by 3", "target": {"action": "decrease", "device": "fan", "room": "office", "value": 3}}
+{"text": "Please shut the space heater off in the living room", "target": {"action": "turn_off", "device": "heater", "room": "living_room", "value": null}}
+{"text": "increase the music speaker in kitchen", "target": {"action": "increase", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "Please turn the blinds on in the bedroom", "target": {"action": "turn_on", "device": "blinds", "room": "bedroom", "value": null}}
+{"text": "Please turn the space heater on in the kitchen", "target": {"action": "turn_on", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "stop the ceiling fan in living room", "target": {"action": "turn_off", "device": "fan", "room": "living_room", "value": null}}
+{"text": "raise the tv in hall by 2", "target": {"action": "increase", "device": "tv", "room": "living_room", "value": 2}}
+{"text": "Turn on the tv in the washroom", "target": {"action": "turn_on", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "Please shut the light off", "target": {"action": "turn_off", "device": "light", "room": null, "value": null}}
+{"text": "Can you start the music speaker in the washroom", "target": {"action": "turn_on", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "increase the fan in master bedroom by 10", "target": {"action": "increase", "device": "fan", "room": "bedroom", "value": 10}}
+{"text": "please turn the curtains on in the kitchen", "target": {"action": "turn_on", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "lower the light in kitchen by 2", "target": {"action": "decrease", "device": "light", "room": "kitchen", "value": 2}}
+{"text": "decrease the lamp in study by 5", "target": {"action": "decrease", "device": "light", "room": "office", "value": 5}}
+{"text": "Decrease the fan by 2", "target": {"action": "decrease", "device": "fan", "room": null, "value": 2}}
+{"text": "turn up the music speaker in the hall", "target": {"action": "increase", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "turn down the blinds", "target": {"action": "decrease", "device": "blinds", "room": null, "value": null}}
+{"text": "put the air conditioner in the living room at 20", "target": {"action": "set", "device": "ac", "room": "living_room", "value": 20}}
+{"text": "Make the heater 27", "target": {"action": "set", "device": "heater", "room": null, "value": 27}}
+{"text": "speaker in the study to 9 please", "target": {"action": "set", "device": "speaker", "room": "office", "value": 9}}
+{"text": "lower the AC in study by 1", "target": {"action": "decrease", "device": "ac", "room": "office", "value": 1}}
+{"text": "Please turn the ceiling fan on in the bathroom", "target": {"action": "turn_on", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "can you start the ac in the study", "target": {"action": "turn_on", "device": "ac", "room": "office", "value": null}}
+{"text": "set the music speaker in kitchen to 39", "target": {"action": "set", "device": "speaker", "room": "kitchen", "value": 39}}
+{"text": "change the heater in the kitchen to 26 degrees", "target": {"action": "set", "device": "heater", "room": "kitchen", "value": 26}}
+{"text": "turn on the space heater in the bathroom", "target": {"action": "turn_on", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "Increase the speaker in the bathroom by 3", "target": {"action": "increase", "device": "speaker", "room": "bathroom", "value": 3}}
+{"text": "can you start the heater in office", "target": {"action": "turn_on", "device": "heater", "room": "office", "value": null}}
+{"text": "Decrease the blinds in living room by 5", "target": {"action": "decrease", "device": "blinds", "room": "living_room", "value": 5}}
+{"text": "put the speaker in master bedroom at 30", "target": {"action": "set", "device": "speaker", "room": "bedroom", "value": 30}}
+{"text": "Increase the speaker in the hall by 2", "target": {"action": "increase", "device": "speaker", "room": "living_room", "value": 2}}
+{"text": "Decrease the tv in washroom", "target": {"action": "decrease", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "Change the television in master bedroom to 9", "target": {"action": "set", "device": "tv", "room": "bedroom", "value": 9}}
+{"text": "switch on the space heater in study", "target": {"action": "turn_on", "device": "heater", "room": "office", "value": null}}
+{"text": "stop the speaker", "target": {"action": "turn_off", "device": "speaker", "room": null, "value": null}}
+{"text": "increase the TV in the master bedroom", "target": {"action": "increase", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "turn up the heater in master bedroom", "target": {"action": "increase", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "curtains in kitchen to 62% please", "target": {"action": "set", "device": "blinds", "room": "kitchen", "value": 62}}
+{"text": "make the blinds in the kitchen 73%", "target": {"action": "set", "device": "blinds", "room": "kitchen", "value": 73}}
+{"text": "lower the heater in office by 2", "target": {"action": "decrease", "device": "heater", "room": "office", "value": 2}}
+{"text": "make the ceiling fan 4", "target": {"action": "set", "device": "fan", "room": null, "value": 4}}
+{"text": "change the TV to 16", "target": {"action": "set", "device": "tv", "room": null, "value": 16}}
+{"text": "decrease the curtains in the study", "target": {"action": "decrease", "device": "blinds", "room": "office", "value": null}}
+{"text": "turn off the AC in office", "target": {"action": "turn_off", "device": "ac", "room": "office", "value": null}}
+{"text": "switch on the lamp in the bedroom", "target": {"action": "turn_on", "device": "light", "room": "bedroom", "value": null}}
+{"text": "Raise the TV in the kitchen by 10", "target": {"action": "increase", "device": "tv", "room": "kitchen", "value": 10}}
+{"text": "put the air conditioner in the washroom at 30", "target": {"action": "set", "device": "ac", "room": "bathroom", "value": 30}}
+{"text": "turn down the television in office", "target": {"action": "decrease", "device": "tv", "room": "office", "value": null}}
+{"text": "Can you start the lights", "target": {"action": "turn_on", "device": "light", "room": null, "value": null}}
+{"text": "change the curtains in hall to 55", "target": {"action": "set", "device": "blinds", "room": "living_room", "value": 55}}
+{"text": "turn up the television in the bedroom", "target": {"action": "increase", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "Change the blinds in the office to 36", "target": {"action": "set", "device": "blinds", "room": "office", "value": 36}}
+{"text": "lights off in the master bedroom", "target": {"action": "turn_off", "device": "light", "room": "bedroom", "value": null}}
+{"text": "raise the tv in office by 3", "target": {"action": "increase", "device": "tv", "room": "office", "value": 3}}
+{"text": "turn down the space heater", "target": {"action": "decrease", "device": "heater", "room": null, "value": null}}
+{"text": "Decrease the tv in kitchen", "target": {"action": "decrease", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "lower the lamp in the master bedroom by 1", "target": {"action": "decrease", "device": "light", "room": "bedroom", "value": 1}}
+{"text": "lower the curtains in hall by 5", "target": {"action": "decrease", "device": "blinds", "room": "living_room", "value": 5}}
+{"text": "Set the AC in master bedroom to 27", "target": {"action": "set", "device": "ac", "room": "bedroom", "value": 27}}
+{"text": "Increase the TV in the master bedroom", "target": {"action": "increase", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "turn on the ceiling fan in the washroom", "target": {"action": "turn_on", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "set the blinds in kitchen to 94%", "target": {"action": "set", "device": "blinds", "room": "kitchen", "value": 94}}
+{"text": "change the blinds to 62 percent", "target": {"action": "set", "device": "blinds", "room": null, "value": 62}}
+{"text": "Switch on the ceiling fan in washroom", "target": {"action": "turn_on", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "turn up the speaker", "target": {"action": "increase", "device": "speaker", "room": null, "value": null}}
+{"text": "put the lights at 24%", "target": {"action": "set", "device": "light", "room": null, "value": 24}}
+{"text": "Lower the ceiling fan in office by 5", "target": {"action": "decrease", "device": "fan", "room": "office", "value": 5}}
+{"text": "Increase the heater by 10", "target": {"action": "increase", "device": "heater", "room": null, "value": 10}}
+{"text": "Lower the music speaker in kitchen by 10", "target": {"action": "decrease", "device": "speaker", "room": "kitchen", "value": 10}}
+{"text": "Turn off the AC in the bathroom", "target": {"action": "turn_off", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "Television on in living room", "target": {"action": "turn_on", "device": "tv", "room": "living_room", "value": null}}
+{"text": "switch on the lights in the bathroom", "target": {"action": "turn_on", "device": "light", "room": "bathroom", "value": null}}
+{"text": "Set the air conditioner in study to 26 degrees", "target": {"action": "set", "device": "ac", "room": "office", "value": 26}}
+{"text": "Air conditioner on in the hall", "target": {"action": "turn_on", "device": "ac", "room": "living_room", "value": null}}
+{"text": "set the fan in the study to 4", "target": {"action": "set", "device": "fan", "room": "office", "value": 4}}
+{"text": "fan on in bathroom", "target": {"action": "turn_on", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "Turn on the lamp in hall", "target": {"action": "turn_on", "device": "light", "room": "living_room", "value": null}}
+{"text": "put the fan at 4", "target": {"action": "set", "device": "fan", "room": null, "value": 4}}
+{"text": "raise the heater in office by 1", "target": {"action": "increase", "device": "heater", "room": "office", "value": 1}}
+{"text": "Increase the lamp in washroom by 3", "target": {"action": "increase", "device": "light", "room": "bathroom", "value": 3}}
+{"text": "please turn the ac on in washroom", "target": {"action": "turn_on", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "TV off in living room", "target": {"action": "turn_off", "device": "tv", "room": "living_room", "value": null}}
+{"text": "Please turn the music speaker on", "target": {"action": "turn_on", "device": "speaker", "room": null, "value": null}}
+{"text": "turn up the speaker in the bedroom", "target": {"action": "increase", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "lower the ceiling fan in study by 1", "target": {"action": "decrease", "device": "fan", "room": "office", "value": 1}}
+{"text": "Turn on the lights in kitchen", "target": {"action": "turn_on", "device": "light", "room": "kitchen", "value": null}}
+{"text": "turn down the heater", "target": {"action": "decrease", "device": "heater", "room": null, "value": null}}
+{"text": "Speaker on in the master bedroom", "target": {"action": "turn_on", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "decrease the lights in the living room", "target": {"action": "decrease", "device": "light", "room": "living_room", "value": null}}
+{"text": "raise the ac by 3", "target": {"action": "increase", "device": "ac", "room": null, "value": 3}}
+{"text": "Decrease the tv in bedroom by 2", "target": {"action": "decrease", "device": "tv", "room": "bedroom", "value": 2}}
+{"text": "change the fan in the study to 3", "target": {"action": "set", "device": "fan", "room": "office", "value": 3}}
+{"text": "can you start the ceiling fan in the living room", "target": {"action": "turn_on", "device": "fan", "room": "living_room", "value": null}}
+{"text": "turn up the speaker in master bedroom", "target": {"action": "increase", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "Turn off the TV", "target": {"action": "turn_off", "device": "tv", "room": null, "value": null}}
+{"text": "Increase the television in the living room by 3", "target": {"action": "increase", "device": "tv", "room": "living_room", "value": 3}}
+{"text": "decrease the lamp in bathroom by 10", "target": {"action": "decrease", "device": "light", "room": "bathroom", "value": 10}}
+{"text": "switch off the ac in living room", "target": {"action": "turn_off", "device": "ac", "room": "living_room", "value": null}}
+{"text": "Set the TV in the office to 11", "target": {"action": "set", "device": "tv", "room": "office", "value": 11}}
+{"text": "turn on the heater in bathroom", "target": {"action": "turn_on", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "Put the space heater in the bedroom at 21", "target": {"action": "set", "device": "heater", "room": "bedroom", "value": 21}}
+{"text": "Raise the blinds in master bedroom by 2", "target": {"action": "increase", "device": "blinds", "room": "bedroom", "value": 2}}
+{"text": "raise the ceiling fan in the master bedroom by 2", "target": {"action": "increase", "device": "fan", "room": "bedroom", "value": 2}}
+{"text": "Please shut the speaker off in the kitchen", "target": {"action": "turn_off", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "turn down the light in kitchen", "target": {"action": "decrease", "device": "light", "room": "kitchen", "value": null}}
+{"text": "make the fan in the kitchen 2", "target": {"action": "set", "device": "fan", "room": "kitchen", "value": 2}}
+{"text": "lower the space heater in bedroom by 5", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": 5}}
+{"text": "fan off in the kitchen", "target": {"action": "turn_off", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "can you start the light in study", "target": {"action": "turn_on", "device": "light", "room": "office", "value": null}}
+{"text": "switch on the heater in office", "target": {"action": "turn_on", "device": "heater", "room": "office", "value": null}}
+{"text": "switch off the AC in the kitchen", "target": {"action": "turn_off", "device": "ac", "room": "kitchen", "value": null}}
+{"text": "fan to 5 please", "target": {"action": "set", "device": "fan", "room": null, "value": 5}}
+{"text": "raise the curtains in the master bedroom by 2", "target": {"action": "increase", "device": "blinds", "room": "bedroom", "value": 2}}
+{"text": "Please turn the heater on", "target": {"action": "turn_on", "device": "heater", "room": null, "value": null}}
+{"text": "make the speaker in bathroom 78", "target": {"action": "set", "device": "speaker", "room": "bathroom", "value": 78}}
+{"text": "set the heater in the bathroom to 23 degrees", "target": {"action": "set", "device": "heater", "room": "bathroom", "value": 23}}
+{"text": "TV off in the living room", "target": {"action": "turn_off", "device": "tv", "room": "living_room", "value": null}}
+{"text": "Tv to 22 please", "target": {"action": "set", "device": "tv", "room": null, "value": 22}}
+{"text": "make the space heater in study 26", "target": {"action": "set", "device": "heater", "room": "office", "value": 26}}
+{"text": "Turn on the fan in the study", "target": {"action": "turn_on", "device": "fan", "room": "office", "value": null}}
+{"text": "Please turn the light on in bedroom", "target": {"action": "turn_on", "device": "light", "room": "bedroom", "value": null}}
+{"text": "turn off the television", "target": {"action": "turn_off", "device": "tv", "room": null, "value": null}}
+{"text": "Decrease the ceiling fan in office by 5", "target": {"action": "decrease", "device": "fan", "room": "office", "value": 5}}
+{"text": "can you start the curtains in master bedroom", "target": {"action": "turn_on", "device": "blinds", "room": "bedroom", "value": null}}
+{"text": "Make the space heater in bathroom 26 degrees", "target": {"action": "set", "device": "heater", "room": "bathroom", "value": 26}}
+{"text": "Put the fan in office at 3", "target": {"action": "set", "device": "fan", "room": "office", "value": 3}}
+{"text": "stop the television in the bedroom", "target": {"action": "turn_off", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "turn off the fan in the master bedroom", "target": {"action": "turn_off", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "make the ceiling fan in the master bedroom 1", "target": {"action": "set", "device": "fan", "room": "bedroom", "value": 1}}
+{"text": "decrease the fan in washroom by 1", "target": {"action": "decrease", "device": "fan", "room": "bathroom", "value": 1}}
+{"text": "increase the AC in master bedroom", "target": {"action": "increase", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "change the curtains in the washroom to 72", "target": {"action": "set", "device": "blinds", "room": "bathroom", "value": 72}}
+{"text": "can you start the fan", "target": {"action": "turn_on", "device": "fan", "room": null, "value": null}}
+{"text": "raise the tv in the master bedroom by 3", "target": {"action": "increase", "device": "tv", "room": "bedroom", "value": 3}}
+{"text": "Switch off the television in the bathroom", "target": {"action": "turn_off", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "Increase the music speaker", "target": {"action": "increase", "device": "speaker", "room": null, "value": null}}
+{"text": "Make the TV in washroom 8", "target": {"action": "set", "device": "tv", "room": "bathroom", "value": 8}}
+{"text": "increase the air conditioner in study by 1", "target": {"action": "increase", "device": "ac", "room": "office", "value": 1}}
+{"text": "increase the blinds in washroom", "target": {"action": "increase", "device": "blinds", "room": "bathroom", "value": null}}
+{"text": "fan to 4 please", "target": {"action": "set", "device": "fan", "room": null, "value": 4}}
+{"text": "Turn down the lights in master bedroom", "target": {"action": "decrease", "device": "light", "room": "bedroom", "value": null}}
+{"text": "decrease the blinds in study", "target": {"action": "decrease", "device": "blinds", "room": "office", "value": null}}
+{"text": "Turn down the heater", "target": {"action": "decrease", "device": "heater", "room": null, "value": null}}
+{"text": "raise the air conditioner in washroom by 1", "target": {"action": "increase", "device": "ac", "room": "bathroom", "value": 1}}
+{"text": "increase the fan in hall", "target": {"action": "increase", "device": "fan", "room": "living_room", "value": null}}
+{"text": "increase the light by 5", "target": {"action": "increase", "device": "light", "room": null, "value": 5}}
+{"text": "please shut the lights off in living room", "target": {"action": "turn_off", "device": "light", "room": "living_room", "value": null}}
+{"text": "Lower the space heater in kitchen by 1", "target": {"action": "decrease", "device": "heater", "room": "kitchen", "value": 1}}
+{"text": "Fan on in the kitchen", "target": {"action": "turn_on", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "put the heater at 18 degrees", "target": {"action": "set", "device": "heater", "room": null, "value": 18}}
+{"text": "stop the blinds in hall", "target": {"action": "turn_off", "device": "blinds", "room": "living_room", "value": null}}
+{"text": "put the air conditioner at 17", "target": {"action": "set", "device": "ac", "room": null, "value": 17}}
+{"text": "please turn the ceiling fan on in washroom", "target": {"action": "turn_on", "device": "fan", "room": "bathroom", "value": null}}
+{"text": "switch off the lamp in the bedroom", "target": {"action": "turn_off", "device": "light", "room": "bedroom", "value": null}}
+{"text": "decrease the television", "target": {"action": "decrease", "device": "tv", "room": null, "value": null}}
+{"text": "turn on the lights in master bedroom", "target": {"action": "turn_on", "device": "light", "room": "bedroom", "value": null}}
+{"text": "Stop the curtains in office", "target": {"action": "turn_off", "device": "blinds", "room": "office", "value": null}}
+{"text": "Switch on the fan in the master bedroom", "target": {"action": "turn_on", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "Turn on the heater", "target": {"action": "turn_on", "device": "heater", "room": null, "value": null}}
+{"text": "increase the blinds in the office", "target": {"action": "increase", "device": "blinds", "room": "office", "value": null}}
+{"text": "lower the television in the living room by 1", "target": {"action": "decrease", "device": "tv", "room": "living_room", "value": 1}}
+{"text": "turn on the blinds in the living room", "target": {"action": "turn_on", "device": "blinds", "room": "living_room", "value": null}}
+{"text": "Turn down the blinds", "target": {"action": "decrease", "device": "blinds", "room": null, "value": null}}
+{"text": "turn down the blinds in the hall", "target": {"action": "decrease", "device": "blinds", "room": "living_room", "value": null}}
+{"text": "decrease the light", "target": {"action": "decrease", "device": "light", "room": null, "value": null}}
+{"text": "ceiling fan on in the kitchen", "target": {"action": "turn_on", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "Set the lamp in the study to 76 percent", "target": {"action": "set", "device": "light", "room": "office", "value": 76}}
+{"text": "Increase the lamp in study by 5", "target": {"action": "increase", "device": "light", "room": "office", "value": 5}}
+{"text": "Turn up the ac in study", "target": {"action": "increase", "device": "ac", "room": "office", "value": null}}
+{"text": "raise the speaker in the living room by 5", "target": {"action": "increase", "device": "speaker", "room": "living_room", "value": 5}}
+{"text": "turn down the light", "target": {"action": "decrease", "device": "light", "room": null, "value": null}}
+{"text": "stop the air conditioner in the bedroom", "target": {"action": "turn_off", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "increase the air conditioner by 5", "target": {"action": "increase", "device": "ac", "room": null, "value": 5}}
+{"text": "Decrease the space heater in the office by 2", "target": {"action": "decrease", "device": "heater", "room": "office", "value": 2}}
+{"text": "Turn up the fan", "target": {"action": "increase", "device": "fan", "room": null, "value": null}}
+{"text": "blinds on in living room", "target": {"action": "turn_on", "device": "blinds", "room": "living_room", "value": null}}
+{"text": "make the fan in kitchen 5", "target": {"action": "set", "device": "fan", "room": "kitchen", "value": 5}}
+{"text": "air conditioner off", "target": {"action": "turn_off", "device": "ac", "room": null, "value": null}}
+{"text": "decrease the ac in the washroom", "target": {"action": "decrease", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "curtains in office to 58% please", "target": {"action": "set", "device": "blinds", "room": "office", "value": 58}}
+{"text": "music speaker in study to 19 please", "target": {"action": "set", "device": "speaker", "room": "office", "value": 19}}
+{"text": "television off in hall", "target": {"action": "turn_off", "device": "tv", "room": "living_room", "value": null}}
+{"text": "put the curtains in the kitchen at 7%", "target": {"action": "set", "device": "blinds", "room": "kitchen", "value": 7}}
+{"text": "space heater in the hall to 23 please", "target": {"action": "set", "device": "heater", "room": "living_room", "value": 23}}
+{"text": "turn on the curtains in the kitchen", "target": {"action": "turn_on", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "Space heater on", "target": {"action": "turn_on", "device": "heater", "room": null, "value": null}}
+{"text": "increase the TV in hall by 5", "target": {"action": "increase", "device": "tv", "room": "living_room", "value": 5}}
+{"text": "put the ceiling fan in bathroom at 3", "target": {"action": "set", "device": "fan", "room": "bathroom", "value": 3}}
+{"text": "Switch on the curtains in the washroom", "target": {"action": "turn_on", "device": "blinds", "room": "bathroom", "value": null}}
+{"text": "Decrease the heater in master bedroom", "target": {"action": "decrease", "device": "heater", "room": "bedroom", "value": null}}
+{"text": "turn down the space heater in office", "target": {"action": "decrease", "device": "heater", "room": "office", "value": null}}
+{"text": "Make the space heater 23 degrees", "target": {"action": "set", "device": "heater", "room": null, "value": 23}}
+{"text": "lower the curtains in master bedroom by 2", "target": {"action": "decrease", "device": "blinds", "room": "bedroom", "value": 2}}
+{"text": "Please turn the television on in the bedroom", "target": {"action": "turn_on", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "Blinds in office to 40 please", "target": {"action": "set", "device": "blinds", "room": "office", "value": 40}}
+{"text": "Put the music speaker in the bedroom at 35", "target": {"action": "set", "device": "speaker", "room": "bedroom", "value": 35}}
+{"text": "please turn the fan on in bedroom", "target": {"action": "turn_on", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "change the music speaker in the bathroom to 10", "target": {"action": "set", "device": "speaker", "room": "bathroom", "value": 10}}
+{"text": "Switch on the heater", "target": {"action": "turn_on", "device": "heater", "room": null, "value": null}}
+{"text": "decrease the light in the bathroom by 5", "target": {"action": "decrease", "device": "light", "room": "bathroom", "value": 5}}
+{"text": "Ac in the washroom to 28 please", "target": {"action": "set", "device": "ac", "room": "bathroom", "value": 28}}
+{"text": "ceiling fan off in the kitchen", "target": {"action": "turn_off", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "put the music speaker in the hall at 74", "target": {"action": "set", "device": "speaker", "room": "living_room", "value": 74}}
+{"text": "please shut the air conditioner off in the office", "target": {"action": "turn_off", "device": "ac", "room": "office", "value": null}}
+{"text": "put the speaker at 20", "target": {"action": "set", "device": "speaker", "room": null, "value": 20}}
+{"text": "Increase the light in office by 3", "target": {"action": "increase", "device": "light", "room": "office", "value": 3}}
+{"text": "curtains in the hall to 60 please", "target": {"action": "set", "device": "blinds", "room": "living_room", "value": 60}}
+{"text": "put the TV in hall at 31", "target": {"action": "set", "device": "tv", "room": "living_room", "value": 31}}
+{"text": "switch off the lamp in study", "target": {"action": "turn_off", "device": "light", "room": "office", "value": null}}
+{"text": "can you start the fan in master bedroom", "target": {"action": "turn_on", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "Stop the air conditioner in the master bedroom", "target": {"action": "turn_off", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "fan in the office to 5 please", "target": {"action": "set", "device": "fan", "room": "office", "value": 5}}
+{"text": "decrease the music speaker in bedroom", "target": {"action": "decrease", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "Stop the lights in the study", "target": {"action": "turn_off", "device": "light", "room": "office", "value": null}}
+{"text": "Set the ceiling fan in washroom to 1", "target": {"action": "set", "device": "fan", "room": "bathroom", "value": 1}}
+{"text": "please shut the ceiling fan off in the kitchen", "target": {"action": "turn_off", "device": "fan", "room": "kitchen", "value": null}}
+{"text": "Please shut the TV off in bedroom", "target": {"action": "turn_off", "device": "tv", "room": "bedroom", "value": null}}
+{"text": "please shut the light off in the kitchen", "target": {"action": "turn_off", "device": "light", "room": "kitchen", "value": null}}
+{"text": "raise the lights in the hall by 2", "target": {"action": "increase", "device": "light", "room": "living_room", "value": 2}}
+{"text": "increase the speaker in the bathroom by 1", "target": {"action": "increase", "device": "speaker", "room": "bathroom", "value": 1}}
+{"text": "stop the heater in kitchen", "target": {"action": "turn_off", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "Increase the AC in the office by 2", "target": {"action": "increase", "device": "ac", "room": "office", "value": 2}}
+{"text": "Lower the heater in kitchen by 2", "target": {"action": "decrease", "device": "heater", "room": "kitchen", "value": 2}}
+{"text": "switch on the air conditioner in hall", "target": {"action": "turn_on", "device": "ac", "room": "living_room", "value": null}}
+{"text": "put the ac in washroom at 24 degrees", "target": {"action": "set", "device": "ac", "room": "bathroom", "value": 24}}
+{"text": "Tv off", "target": {"action": "turn_off", "device": "tv", "room": null, "value": null}}
+{"text": "turn on the ceiling fan in the master bedroom", "target": {"action": "turn_on", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "increase the lights in study", "target": {"action": "increase", "device": "light", "room": "office", "value": null}}
+{"text": "switch on the blinds", "target": {"action": "turn_on", "device": "blinds", "room": null, "value": null}}
+{"text": "switch off the blinds in the kitchen", "target": {"action": "turn_off", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "switch on the television in the bathroom", "target": {"action": "turn_on", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "please turn the AC on in living room", "target": {"action": "turn_on", "device": "ac", "room": "living_room", "value": null}}
+{"text": "switch on the blinds in kitchen", "target": {"action": "turn_on", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "increase the heater by 10", "target": {"action": "increase", "device": "heater", "room": null, "value": 10}}
+{"text": "Set the air conditioner in living room to 24", "target": {"action": "set", "device": "ac", "room": "living_room", "value": 24}}
+{"text": "turn off the blinds in the office", "target": {"action": "turn_off", "device": "blinds", "room": "office", "value": null}}
+{"text": "Turn up the ac", "target": {"action": "increase", "device": "ac", "room": null, "value": null}}
+{"text": "turn up the music speaker in kitchen", "target": {"action": "increase", "device": "speaker", "room": "kitchen", "value": null}}
+{"text": "raise the space heater in office by 3", "target": {"action": "increase", "device": "heater", "room": "office", "value": 3}}
+{"text": "lower the fan in study by 1", "target": {"action": "decrease", "device": "fan", "room": "office", "value": 1}}
+{"text": "stop the heater in washroom", "target": {"action": "turn_off", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "turn up the AC in the master bedroom", "target": {"action": "increase", "device": "ac", "room": "bedroom", "value": null}}
+{"text": "make the tv in living room 9", "target": {"action": "set", "device": "tv", "room": "living_room", "value": 9}}
+{"text": "increase the music speaker by 3", "target": {"action": "increase", "device": "speaker", "room": null, "value": 3}}
+{"text": "Lower the light in the hall by 2", "target": {"action": "decrease", "device": "light", "room": "living_room", "value": 2}}
+{"text": "AC in washroom to 28 please", "target": {"action": "set", "device": "ac", "room": "bathroom", "value": 28}}
+{"text": "turn off the ceiling fan in bedroom", "target": {"action": "turn_off", "device": "fan", "room": "bedroom", "value": null}}
+{"text": "turn on the heater in hall", "target": {"action": "turn_on", "device": "heater", "room": "living_room", "value": null}}
+{"text": "Decrease the music speaker in study by 10", "target": {"action": "decrease", "device": "speaker", "room": "office", "value": 10}}
+{"text": "Turn off the light in the bedroom", "target": {"action": "turn_off", "device": "light", "room": "bedroom", "value": null}}
+{"text": "speaker off in bedroom", "target": {"action": "turn_off", "device": "speaker", "room": "bedroom", "value": null}}
+{"text": "turn off the heater in the office", "target": {"action": "turn_off", "device": "heater", "room": "office", "value": null}}
+{"text": "increase the light in kitchen", "target": {"action": "increase", "device": "light", "room": "kitchen", "value": null}}
+{"text": "decrease the television by 1", "target": {"action": "decrease", "device": "tv", "room": null, "value": 1}}
+{"text": "Lower the TV by 2", "target": {"action": "decrease", "device": "tv", "room": null, "value": 2}}
+{"text": "please turn the heater on in washroom", "target": {"action": "turn_on", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "Please turn the space heater on in the washroom", "target": {"action": "turn_on", "device": "heater", "room": "bathroom", "value": null}}
+{"text": "heater off in kitchen", "target": {"action": "turn_off", "device": "heater", "room": "kitchen", "value": null}}
+{"text": "raise the ceiling fan in the kitchen by 5", "target": {"action": "increase", "device": "fan", "room": "kitchen", "value": 5}}
+{"text": "Set the speaker to 66", "target": {"action": "set", "device": "speaker", "room": null, "value": 66}}
+{"text": "Turn off the television in study", "target": {"action": "turn_off", "device": "tv", "room": "office", "value": null}}
+{"text": "decrease the lights in the living room by 3", "target": {"action": "decrease", "device": "light", "room": "living_room", "value": 3}}
+{"text": "decrease the light in the living room by 5", "target": {"action": "decrease", "device": "light", "room": "living_room", "value": 5}}
+{"text": "increase the AC in the kitchen by 1", "target": {"action": "increase", "device": "ac", "room": "kitchen", "value": 1}}
+{"text": "Decrease the TV", "target": {"action": "decrease", "device": "tv", "room": null, "value": null}}
+{"text": "switch off the music speaker in living room", "target": {"action": "turn_off", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "set the blinds in bedroom to 25%", "target": {"action": "set", "device": "blinds", "room": "bedroom", "value": 25}}
+{"text": "Decrease the ceiling fan in the hall by 3", "target": {"action": "decrease", "device": "fan", "room": "living_room", "value": 3}}
+{"text": "Decrease the curtains by 1", "target": {"action": "decrease", "device": "blinds", "room": null, "value": 1}}
+{"text": "turn on the speaker in washroom", "target": {"action": "turn_on", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "heater off in the living room", "target": {"action": "turn_off", "device": "heater", "room": "living_room", "value": null}}
+{"text": "Lower the air conditioner in study by 10", "target": {"action": "decrease", "device": "ac", "room": "office", "value": 10}}
+{"text": "change the television in the washroom to 49", "target": {"action": "set", "device": "tv", "room": "bathroom", "value": 49}}
+{"text": "Lower the curtains in bathroom by 3", "target": {"action": "decrease", "device": "blinds", "room": "bathroom", "value": 3}}
+{"text": "Turn down the AC in the study", "target": {"action": "decrease", "device": "ac", "room": "office", "value": null}}
+{"text": "Decrease the ac in bathroom by 2", "target": {"action": "decrease", "device": "ac", "room": "bathroom", "value": 2}}
+{"text": "make the speaker in study 19", "target": {"action": "set", "device": "speaker", "room": "office", "value": 19}}
+{"text": "set the lights in the hall to 67 percent", "target": {"action": "set", "device": "light", "room": "living_room", "value": 67}}
+{"text": "Turn down the television", "target": {"action": "decrease", "device": "tv", "room": null, "value": null}}
+{"text": "lower the speaker in bedroom by 10", "target": {"action": "decrease", "device": "speaker", "room": "bedroom", "value": 10}}
+{"text": "blinds off in kitchen", "target": {"action": "turn_off", "device": "blinds", "room": "kitchen", "value": null}}
+{"text": "light on in the hall", "target": {"action": "turn_on", "device": "light", "room": "living_room", "value": null}}
+{"text": "music speaker in washroom to 80 please", "target": {"action": "set", "device": "speaker", "room": "bathroom", "value": 80}}
+{"text": "raise the speaker in office by 2", "target": {"action": "increase", "device": "speaker", "room": "office", "value": 2}}
+{"text": "stop the speaker in bathroom", "target": {"action": "turn_off", "device": "speaker", "room": "bathroom", "value": null}}
+{"text": "Turn off the TV in the kitchen", "target": {"action": "turn_off", "device": "tv", "room": "kitchen", "value": null}}
+{"text": "turn down the ac in hall", "target": {"action": "decrease", "device": "ac", "room": "living_room", "value": null}}
+{"text": "set the AC in the study to 28 degrees", "target": {"action": "set", "device": "ac", "room": "office", "value": 28}}
+{"text": "Change the ac in bedroom to 29", "target": {"action": "set", "device": "ac", "room": "bedroom", "value": 29}}
+{"text": "can you start the space heater in study", "target": {"action": "turn_on", "device": "heater", "room": "office", "value": null}}
+{"text": "turn up the blinds", "target": {"action": "increase", "device": "blinds", "room": null, "value": null}}
+{"text": "raise the curtains in office by 2", "target": {"action": "increase", "device": "blinds", "room": "office", "value": 2}}
+{"text": "increase the AC in washroom", "target": {"action": "increase", "device": "ac", "room": "bathroom", "value": null}}
+{"text": "Stop the music speaker in the living room", "target": {"action": "turn_off", "device": "speaker", "room": "living_room", "value": null}}
+{"text": "decrease the TV in bathroom", "target": {"action": "decrease", "device": "tv", "room": "bathroom", "value": null}}
+{"text": "can you start the light", "target": {"action": "turn_on", "device": "light", "room": null, "value": null}}
+{"text": "change the curtains in bedroom to 90", "target": {"action": "set", "device": "blinds", "room": "bedroom", "value": 90}}
+{"text": "Please turn the space heater on in living room", "target": {"action": "turn_on", "device": "heater", "room": "living_room", "value": null}}
+{"text": "Decrease the ac in the office by 1", "target": {"action": "decrease", "device": "ac", "room": "office", "value": 1}}
+{"text": "Switch off the air conditioner in the hall", "target": {"action": "turn_off", "device": "ac", "room": "living_room", "value": null}}
+{"text": "Set the ceiling fan in living room to 3", "target": {"action": "set", "device": "fan", "room": "living_room", "value": 3}}
+{"text": "set the AC in office to 16 degrees", "target": {"action": "set", "device": "ac", "room": "office", "value": 16}}
